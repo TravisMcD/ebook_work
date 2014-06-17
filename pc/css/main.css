@@ -1,0 +1,129 @@
+body{
+	margin:0;
+	background-image:url('../images/book/bg.jpeg');
+}
+/*---Login -------*/
+
+
+#loginDiv{
+    width:100%;
+	height:100%;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url('../../images/book/bg.jpeg');
+	
+}
+
+#teacherLogin{
+	 background-image: url("../images/login.png");
+    background-position: 0 -10px;
+    background-repeat: no-repeat;
+    float: left;
+    height: 100%;
+    position: relative;
+    width: 340px;
+	cursor:pointer;
+	overflow:hidden;
+	border-radius:10px;
+	box-shadow:4px 4px 4px #000;
+}
+
+#teacherLogin:hover{
+	box-shadow:2px 2px 2px #000;	
+
+}
+
+#studentLogin{
+background-image: url("../images/login.png");
+    background-position: -340px -10px;
+    background-repeat: no-repeat;
+    float: left;
+    height: 100%;
+    margin-left: 2px;
+    position: relative;
+    width: 340px;
+	cursor:pointer;
+	overflow:hidden;
+	border-radius:10px;
+	box-shadow:4px 4px 4px #000;
+}
+
+#studentLogin:hover{
+	box-shadow:2px 2px 2px #000;	
+}
+
+
+
+#loginControl{
+	height: 393px;
+    margin: 15% auto 0;
+    position: relative;
+    width: 692px;
+}
+
+/*-------------------*/
+
+
+/*--- Book self ----*/
+
+#loginPageContent{
+	 left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+	display:none;
+	height:650px;
+	overflow:hidden;
+	background-image:url('../images/book/bg.jpeg');
+}
+
+#loginPageContent{
+	left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+
+#banner{
+	   font-family:Verdana, Geneva, sans-serif;
+	   font-size:27px;
+	   font-weight:500;
+	   color:#ffffff;
+	   font-weight:bold;
+   }
+   #loginPrompt{
+	  height: 1004px;
+    margin: 0 auto;
+    position: relative;
+    width: 768px;
+   }
+   #bookselectTable td{
+	   width:150px;
+	   height:100px;
+	  // background-color:#0CC;
+   }
+   #bookselectTable div{
+	   margin-left:0px;
+	   margin-top:-5px;
+   }
+   .bookTitle{
+	   font-family:Verdana, Geneva, sans-serif;
+	   margin-top:-7px;
+	   font-size:15px;
+	   margin-left:0px;
+	   font-weight:bold;
+	   width:150px;
+	   text-align:center;
+	   background-color:#432243;
+	   color:#FFFFFF;
+	   height:24px;
+	   padding-top:5px;
+   }
+    #bookselectTable{
+	   margin-top:50px;
+	  
+   }
+
+/*------------------*/

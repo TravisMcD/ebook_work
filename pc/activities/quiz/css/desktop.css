@@ -1,0 +1,154 @@
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	background-color:#fff;
+}
+#bodyCont{
+background-color: #F5631E;
+    border-radius: 10px 10px 10px 10px;
+    height: 469px;
+    margin: 22px auto 0;
+    overflow: hidden;
+    width: 680px;
+}
+
+#title{
+ color: #FFFFFF;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 27px;
+    font-weight: bold;
+    padding-left: 37px;
+}
+#innerBody{
+background-color: #F2AF4C;
+    border-radius: 10px 10px 10px 10px;
+    height: 91%;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 90%;
+}
+
+#questionCont{
+ background-color: #FFCC99;
+    border-radius: 15px 15px 15px 15px;
+    height: 77%;
+    margin: 9px auto 0;
+    overflow: hidden;
+    position: relative;
+    width: 95%;
+}
+
+.quesText{
+	font-weight:bold;
+	font-size:16px;
+	display:table-cell;
+	vertical-align:middle;
+}
+
+#quesCont{
+  background-color: #F2F400;
+    border-radius: 5px 0 0 0;
+    display: table;
+    height: 90px;
+    padding: 5px;
+    position: relative;
+    width: 98%;
+}
+
+#choiceCont{
+ background-color: #FFFFFF;
+    height: 219px;
+    padding: 5px;
+    position: relative;
+    width: 98%;
+}
+
+#btnCont{
+	position:relative;
+    height: 20%;
+    margin: 0 auto;
+    position: relative;
+    width: 95%;
+}
+
+#prevBtn{
+   background-color: #FFD08E;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 18px;
+    font-weight: bold;
+    height: 26px;
+    left: 124px;
+    padding: 10px 5px 5px 22px;
+    position: absolute;
+    text-align: left;
+    top: 19px;
+    width: 170px;
+	cursor:pointer;
+}
+
+#nextBtn{
+	 background-color: #FFD08E;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 18px;
+    font-weight: bold;
+    height: 26px;
+    left: 268px;
+    padding: 10px 21px 5px 5px;
+    position: absolute;
+    text-align: right;
+    top: 19px;
+    width: 141px;
+	cursor:pointer;
+}
+
+#submitBtn{
+	background-image: url("../images/submit.png");
+    height: 78px;
+    left: 243px;
+    position: absolute;
+    top: 0;
+    width: 78px;
+	cursor:pointer;
+}
+
+.listCont{
+	height: 30px;
+    margin: 13px 0;
+    position: relative;
+    width: 99%;
+}
+
+.ack{
+	 background-position: center center;
+    background-repeat: no-repeat;
+    float: left;
+    height: 100%;
+    position: relative;
+    width: 30px;
+}
+
+.slno{
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    height: 68%;
+    margin-left: -6px;
+    padding: 5px;
+    position: relative;
+    width: 13px;
+}
+
+.choiceText{
+background-color: #F4B000;
+    cursor: pointer;
+    float: left;
+    font-size: 13px;
+    font-weight: bold;
+    height: 97%;
+    padding: 5px;
+    position: relative;
+    width: 385px;
+}
+
+.choiceText:hover{
+	box-shadow:2px 2px 2px #000;
+}

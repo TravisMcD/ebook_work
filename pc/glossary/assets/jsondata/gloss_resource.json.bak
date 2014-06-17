@@ -1,0 +1,3825 @@
+{"glossary": 
+	{
+        "title": "Example glossary",
+		"resources":{
+			"a":[
+				{
+					"termEnglish":"absolute value of a number",
+					"termSpanish":"ambition_spaish",
+					"defEnglish":"A name-value pair, separate",
+					"defSpanish":"def - spanish",
+					"audioEnglish":"assets/audio/page_2",
+					"audioSpanish":"assets/audio/page_2",
+					"animationId":"a",
+					"relatedTerms":"integers, negative integers"
+				},
+				{
+					"termEnglish":"acute angle",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"angle, obtuse angle, right angle"
+				},
+				{
+					"termEnglish":"acute triangle",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"acute angle, angle, obtuse triangle, right triangle, triangle"
+				},
+				{
+					"termEnglish":"add",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"acute angle, angle, obtuse triangle, right triangle, triangle"
+				},
+				{
+					"termEnglish":"addend",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"add, addition sentence, sum"
+				},
+				{
+					"termEnglish":"addition sentence",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"add, addend, equal sign, plus sign, sum"
+				},
+				{
+					"termEnglish":"adjacent angles",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"angle, vertex"
+				},
+				{
+					"termEnglish":"after",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"before, between"
+				},
+				{
+					"termEnglish":"algebraic expression",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"numerical expression, operations, variable"
+				},
+				{
+					"termEnglish":"alternate exterior angles",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"angle, alternate interior angles, corresponding angles, vertical angles"
+				},
+				{
+					"termEnglish":"alternate interior angles",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":""
+				},
+				{
+					"termEnglish":"analog clock",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"digital clock, elapsed time, hour hand, minute hand"
+				},
+				{
+					"termEnglish":"angle",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"line, line segment, point, ray"
+				},
+				{
+					"termEnglish":"area",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"perimeter, square unit, surface area, volume"
+				},
+				{
+					"termEnglish":"array",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"column, row"
+				},
+				{
+					"termEnglish":"ASA",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"angle, congruent polygons, SAS, side, SSS, triangle"
+				},
+				{
+					"termEnglish":"Associative Property of Addition",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"Associative Property of Multiplication, Commutative Property of Addition, Commutative Property of Multiplication"
+				},
+				{
+					"termEnglish":"Associative Property of Multiplication",
+					"termSpanish":"animation-spanish",
+					"defEnglish":"Lysosomes",
+					"defSpanish":"def- spanish aniamtion",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"Associative Property of Addition, Commutative Property of Addition, Commutative Property of Multiplication"
+				}
+				
+			
+			],
+			"b":[
+				{
+					"termEnglish":"bar graph",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"data, graph, line graph, line plot, pictograph"
+				},
+				{
+					"termEnglish":"base",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"exponent, factor, multiplication, power of a number"
+				},
+				{
+					"termEnglish":"base of a parallelogram",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"parallelogram, perpendicular lines"
+				},
+				{
+					"termEnglish":"base of a triangle",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"triangle"
+				},
+				{
+					"termEnglish":"base of a solid figure",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},
+				{
+					"termEnglish":"base-10 pieces",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"hundreds flat, ones block, place value, tens rod"
+				},
+				{
+					"termEnglish":"bases of a trapezoid",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"parallel lines, trapezoid"
+				},
+				{
+					"termEnglish":"before",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"after, between"
+				},
+				{
+					"termEnglish":"benchmark",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"estimate, rounding"
+				},
+				{
+					"termEnglish":"between",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"after, before"
+				},
+				{
+					"termEnglish":"box-and-whisker plot",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"data, first quartile, lower extreme, median, third quartile, upper extreme"
+				},
+				{
+					"termEnglish":"broken scale",
+					"termSpanish":"bar graph-spanish",
+					"defEnglish":"definition english.",
+					"defSpanish":"definition spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"data"
+				}
+			],
+			"c":[
+				{
+					"termEnglish":"capacity",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"cup, gallon, liter, pint, quart"
+				},
+				{
+					"termEnglish":"center",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"central angle, circle, diameter"
+				},
+                {
+					"termEnglish":"cent sign (¢)",
+					"termSpanish":"additionute_Spanish",
+					"defEnglish":"english definition",
+					"defSpanish":"definition- spanish",
+					"audioEnglish":"assets/audio/page_1",
+					"audioSpanish":"assets/audio/page_1",
+					"animationId":"a",
+					"relatedTerms":"ambition,bitmap"
+				},
+				{
+					"termEnglish":"centimeter",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"decimeter, meter"
+				},
+				{
+					"termEnglish":"centimeter ruler",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"centimeter, meter stick"
+				},
+				{
+					"termEnglish":"central angle",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"angle, center, circle"
+				},
+                
+				{
+					"termEnglish":"certain",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"event, impossible"
+				},
+				{
+					"termEnglish":"chord",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"circle, diameter"
+				},
+				{
+					"termEnglish":"circle",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"center, central angle, chord, circumference, diameter, radius"
+				},
+				{
+					"termEnglish":"circle graph",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"data, graph"
+				},
+				{
+					"termEnglish":"circumference",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"circle, diameter, perimeter"
+				},
+				{
+					"termEnglish":"coefficient",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"algebraic expression, term, variable"
+				},
+				{
+					"termEnglish":"column",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"array, row"
+				},
+				{
+					"termEnglish":"common factor",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"factor, greatest common factor"
+				},
+				{
+					"termEnglish":"common multiple",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"least common denominator, least common multiple, multiple"
+				},
+				{
+					"termEnglish":"Commutative Property of Addition",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"Associative Property of Addition, Commutative Property of Multiplication"
+				},
+				{
+					"termEnglish":"Commutative Property of Multiplication",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"Associative Property of Multiplication, Commutative Property of Addition"
+				},
+				{
+					"termEnglish":"compare",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"number line"
+				},
+				{
+					"termEnglish":"compatible numbers",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"divide, division"
+				},
+				{
+					"termEnglish":"complement of an event",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"event, probability"
+				},
+				{
+					"termEnglish":"complementary angles",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"angle, right angle, supplementary angles"
+				},
+				{
+					"termEnglish":"composite number",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"factor, prime number"
+				},
+				{
+					"termEnglish":"cone",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"cylinder, pyramid"
+				},
+				{
+					"termEnglish":"congruent",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"congruent angles, congruent segments, similar"
+				},
+				{
+					"termEnglish":"congruent angles",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct.",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"angle, ASA, congruent figures, SAS"
+				},
+				{
+					"termEnglish":"congruent figures",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"congruent angles, congruent segments, similar"
+				},
+				{
+					"termEnglish":"congruent polygons",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"congruent angles, congruent segments, polygon"
+				},
+				{
+					"termEnglish":"congruent segments",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"congruent figures, congruent polygons, line segment"
+				},
+				{
+					"termEnglish":"consecutive angles",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"angle, vertex"
+				},
+				{
+					"termEnglish":"consecutive vertices",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"polygon, vertex"
+				},
+				{
+					"termEnglish":"coordinate graph",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"number line, ordered pair"
+				},
+				{
+					"termEnglish":"coordinate plane",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"number line, ordered pair, plane"
+				},
+				{
+					"termEnglish":"corner",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"face, solid figure"
+				},
+				{
+					"termEnglish":"corresponding angles",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"alternate exterior angles, alternate interior angles, angle, vertical angles"
+				},
+				{
+					"termEnglish":"corresponding angles of polygons",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},
+				{
+					"termEnglish":"corresponding sides",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"congruent polygons, polygon"
+				},
+				{
+					"termEnglish":"count back",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"difference, number line"
+				},
+				{
+					"termEnglish":"counting principle",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"outcome, probability"
+				},
+				{
+					"termEnglish":"cross multiplication",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"cross products, fraction, product"
+				},
+				{
+					"termEnglish":"cross products",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"cross multiplication, fraction, product"
+				},
+				{
+					"termEnglish":"cube",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"face, solid figure"
+				},
+				{
+					"termEnglish":"cubic unit",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"capacity, cube, volume"
+				},
+				{
+					"termEnglish":"cup",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"capacity, customary units of capacity, gallon, pint, quart"
+				},
+				{
+					"termEnglish":"customary units",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"customary units of capacity, customary units of length, customary units of weight"
+				},
+				{
+					"termEnglish":"customary units of capacity",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"cup, gallon, pint, quart"
+				},
+				{
+					"termEnglish":"customary units of length",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"foot, inch, yard"
+				},
+				{
+					"termEnglish":"customary units of weight",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"ounce, pound"
+				},
+				{
+					"termEnglish":"cylinder",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"circle, cone"
+				}
+			],
+			"d":[
+				{
+					"termEnglish":"data",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},
+				{
+					"termEnglish":"data point",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"data, data set, scatter plot"
+				},
+				{
+					"termEnglish":"data set",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"data, data point"
+				},
+				{
+					"termEnglish":"date",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"day"
+				},
+				{
+					"termEnglish":"day",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"date"
+				},
+				{
+					"termEnglish":"decimal",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"decimal point, hundredth, place value, tenth"
+				},
+				{
+					"termEnglish":"decimal point",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"decimal, place value"
+				},
+				{
+					"termEnglish":"decimeter",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"centimeter, meter, meter stick"
+				},
+				{
+					"termEnglish":"decrease",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"increase, subtract"
+				},
+				{
+					"termEnglish":"degrees Celsius (°C)",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"degrees Fahrenheit, thermometer"
+				},
+				{
+					"termEnglish":"degrees Fahrenheit (°F)",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"degrees Celsius, thermometer"
+				},
+				{
+					"termEnglish":"denominator",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"fraction, numerator"
+				},
+				{
+					"termEnglish":"dependent events",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"event, independent events, outcome, probability"
+				},
+				{
+					"termEnglish":"diagonal",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"polygon, vertex"
+				},
+				{
+					"termEnglish":"diameter",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"center, chord, circle, circumference, radius"
+				},
+				{
+					"termEnglish":"difference",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"subtraction, sum"
+				},
+				{
+					"termEnglish":"digit",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"place value"
+				},
+				{
+					"termEnglish":"digital clock",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"analog clock, elapsed time"
+				},
+				{
+					"termEnglish":"dilation",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"reflection, transformation, translation"
+				},
+				{
+					"termEnglish":"dime",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"nickel, penny, quarter"
+				},
+				{
+					"termEnglish":"Distributive Property",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"Associative Property of Addition, Associative Property of Multiplication, Commutative Property of Addition, Commutative Property of Multiplication"
+				},
+				{
+					"termEnglish":"divide",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"compatible numbers, division, multiply"
+				},
+				{
+					"termEnglish":"dividend",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"divide, division, divisor, quotient"
+				},
+				{
+					"termEnglish":"division",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"compatible numbers, divide, multiplication"
+				},
+				{
+					"termEnglish":"divisor",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"divide, dividend, division, quotient"
+				},
+				{
+					"termEnglish":"double",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"factors, multiplication, product"
+				},
+				{
+					"termEnglish":"double line graph",
+					"termSpanish":"css spanish",
+					"defEnglish":"An XML structural construct. A name-value pair, separate",
+					"defSpanish":"css def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"data, data set, line graph"
+				}
+			],
+			"e":[
+				{
+					"termEnglish":"edge",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"face, solid figure"
+				},
+				{
+					"termEnglish":"eighth (eighths)",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"fourth, fraction, half"
+				},
+				{
+					"termEnglish":"elapsed time",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"analog clock, digital clock, hour hand, minute hand"
+				},
+				{
+					"termEnglish":"equal bar",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"add, addend, sum"
+				},
+				{
+					"termEnglish":"equal sign",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"addition sentence, equation"
+				},
+				{
+					"termEnglish":"equation",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"algebraic expression, equal sign, numerical expression"
+				},
+				{
+					"termEnglish":"equilateral triangle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"isosceles triangle, scalene triangle, triangle"
+				},
+				{
+					"termEnglish":"equivalent fractions",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"fraction"
+				},
+				{
+					"termEnglish":"equivalent rates",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"equivalent fractions, rate, unit rate"
+				},
+				{
+					"termEnglish":"equivalent ratios",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"equivalent fractions, equivalent rates, fraction, ratio"
+				},
+				{
+					"termEnglish":"estimate",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"rounding"
+				},
+				{
+					"termEnglish":"even number",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"digit, odd number"
+				},
+				{
+					"termEnglish":"event",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"complement of an event, dependent events, independent events, outcome, probability"
+				},
+				{
+					"termEnglish":"expanded form",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"digit, place value, sum"
+				},
+				{
+					"termEnglish":"expanded notation",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"digit, place value, sum"
+				},
+				{
+					"termEnglish":"experiment",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"event, outcome, probability"
+				},
+				{
+					"termEnglish":"exponent",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"base, factor, multiplication"
+				}
+			],
+			"f":[
+				{
+					"termEnglish":"face",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"corner, edge, solid figure"
+				},
+				{
+					"termEnglish":"fact family",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"add, subtract"
+				},
+				{
+					"termEnglish":"factor",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"common factor, division, greatest common factor (GCF), multiplication, prime factorization"
+				},
+				{
+					"termEnglish":"factor of a whole number",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"compatible numbers, divide, factor"
+				},
+				{
+					"termEnglish":"factor pair",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"factors, multiplication, product"
+				},
+				{
+					"termEnglish":"factorization",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"factors, multiplication, prime factorization, product"
+				},
+				{
+					"termEnglish":"factors",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"factorization, multiplication, product"
+				},
+				{
+					"termEnglish":"favorable outcomes",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"event, outcome, probability"
+				},
+				{
+					"termEnglish":"first quartile",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"box-and-whisker plot, data set, median, third quartile"
+				},
+				{
+					"termEnglish":"flip",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"reflection, slide, turn"
+				},
+				{
+					"termEnglish":"foot",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"customary units of length, inch, yard"
+				},
+				{
+					"termEnglish":"fourth (fourths)",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"eighth, fraction, half"
+				},
+				{
+					"termEnglish":"fraction",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"denominator, fraction bar, fraction circle, fraction strip, numerator"
+				},
+				{
+					"termEnglish":"fraction bar",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"fraction, fraction strip"
+				},
+				{
+					"termEnglish":"fraction circle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"fraction, fraction strip"
+				},
+				{
+					"termEnglish":"fraction strip",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"fraction, fraction bar, fraction circle"
+				},
+				{
+					"termEnglish":"frequency",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"frequency table, interval"
+				},
+				{
+					"termEnglish":"frequency table",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"data, frequency, interval"
+				},
+				{
+					"termEnglish":"function",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"function rule, input-output table, variable"
+				},
+				{
+					"termEnglish":"function rule",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"function, input-output table, variable"
+				}
+			],
+			"g":[
+				{
+					"termEnglish":"gallon",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"cup, pint, quart"
+				},
+				{
+					"termEnglish":"gram",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"kilogram, mass, weight"
+				},
+				{
+					"termEnglish":"graph",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"bar graph, pictograph, picture graph"
+				},
+				{
+					"termEnglish":"greater than symbol",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"equal sign, less than symbol"
+				},
+				{
+					"termEnglish":"greatest common factor (GCF)",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"common factor, factor"
+				},
+				{
+					"termEnglish":"grid",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"number line, point"
+				}
+			],
+			"h":[
+				{
+					"termEnglish":"half (halves)",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"eighth, fourth, fraction"
+				},
+				{
+					"termEnglish":"height of a cylinder",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"cylinder, perpendicular lines, volume"
+				},
+				{
+					"termEnglish":"height of a parallelogram",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"area, parallelogram, perpendicular lines"
+				},
+				{
+					"termEnglish":"height of a pyramid",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"pyramid, perpendicular lines, volume"
+				},
+				{
+					"termEnglish":"height of a trapezoid",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"area, perpendicular lines, trapezoid"
+				},
+				{
+					"termEnglish":"height of a triangle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"area, perpendicular lines, triangle"
+				},
+				{
+					"termEnglish":"hexagon",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"angle, polygon, side"
+				},
+				{
+					"termEnglish":"histogram",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":"bar graph, frequency table, interval"
+				},
+				{
+					"termEnglish":"hour hand",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},
+				{
+					"termEnglish":"hundreds chart",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},
+				{
+					"termEnglish":"hundreds flat",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},
+				{
+					"termEnglish":"hundredth",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},
+				{
+					"termEnglish":"hypotenuse",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+		
+				
+				
+            ],
+			"i":[
+				{
+					"termEnglish":"impossible",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"improper fraction",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"inch",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"increase",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"independent events",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"inequality",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"inequality symbols",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"input-output table",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"integers",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"intersecting lines",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"interval",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"isosceles triangle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+
+            ],
+			"j":[],
+			"k":[
+				{
+					"termEnglish":"key",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"kilogram",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ],
+			"l":[
+				{
+					"termEnglish":"lateral surface",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"leaf",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"least common denominator (LCD)",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"least common multiple (LCM)",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"least likely",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"legs of a right triangle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"length",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"less likely",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"less than symbol",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"like terms",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"likely",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"line",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"line graph",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"line of best fit",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"line of symmetry",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"line plot",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"line segment",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"line symmetry",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"linear equation",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"linear function",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"liter",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"lower extreme",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ],
+			"m":[
+				{
+					"termEnglish":"make a 10",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"mass",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"maximum",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"mean",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"measure",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"median",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"meter",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"meter stick",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"metric units",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"milliliter",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"millions period",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"minimum",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"minus",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"minute hand",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"mixed number",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"mode",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"more likely",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"most likely",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"multiple",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"multiple of a number",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"multiplication",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"Multiplication Property of One",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"Multiplication Property of Zero",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"multiply",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ],
+			"n":[
+				{
+					"termEnglish":"negative correlation",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"negative integers",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"net",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"nickel",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"nonlinear function",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"nonnegative",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"nonnegative number",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"number line",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"numerator",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"numerical expression",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ],
+			"o":[
+				{
+					"termEnglish":"obtuse angle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"obtuse triangle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"octagon",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"odd number",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"ones block",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"operations",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"opposite angles of a parallelogram",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"opposite of a number",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"opposite of an integer",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"order",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"order of operations",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"ordered pair",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"ordinal number",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"origin",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"ounce",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"outcome",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"outlier",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ],
+			"p":[
+				{
+					"termEnglish":"parallel lines",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"parallelogram",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"part",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"pattern",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"penny",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"pentagon",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"percent",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"percent decrease",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"percent increase",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"perfect square",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"perimeter",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"period",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"perpendicular lines",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"pictograph",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"picture graph",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"pint",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"place value",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"place value chart",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"plane",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"plane figure",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"plus sign",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"point",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"point of rotation",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"polygon",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"positive correlation",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"positive integers",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"possible outcomes",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"pound",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"power of a number",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"powers of 10",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"prime factorization",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"prime number",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"prism",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"probability",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"product",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"proportion",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"pyramid",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}            
+            ],
+			"q":[
+				{
+					"termEnglish":"quadrants",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"quadrilateral",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				} ,{
+					"termEnglish":"quart",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				} ,{
+					"termEnglish":"quarter",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"quotient",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				} 
+            ],
+			"r":[
+				{
+					"termEnglish":"radical sign",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"radius",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"range",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"rate",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"ratio",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"rational number",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"ray",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"reciprocal",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"rectangle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"rectangular prism",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"rectangular pyramid",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"reflection",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"regroup (in addition)",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"Regroup (in subtraction)",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"regular polygon",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"rhombus",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"right angle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"right triangle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"rise",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"rotation",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"rotation about the origin",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"rotational symmetry",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"rounding",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"row",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"run",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ],
+			"s":[
+				{
+					"termEnglish":"sample space",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"SAS",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"scale",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"scale drawing",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"scale factor",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"scalene triangle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"scatter plot",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"scientific notation",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"sequence",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"set",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"share equally",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"side",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"similar",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"similar figures",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"simplest form",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"simplest form of a fraction",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"sixth (sixths)",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"skip counting",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"slide",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"slope",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"solid",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"solid figure",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"solution",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"solution of a system of equations",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"solution set of an inequality",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"sphere",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"square",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"square pyramid",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"square root",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"square unit",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"SSS",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"standard form",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"stem",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"stem-and-leaf plot",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"straight angle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"subtract",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"subtraction",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"subtrahend",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"sum",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"supplementary angles",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"surface area",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"surface area of a rectangular prism",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"system of linear equations",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ],
+			"t":[
+				{
+					"termEnglish":"table",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"table of values",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"take away",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"tally mark",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"tally table",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"temperature",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"tens frame",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"tens rod",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"tenth",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"term",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"thermometer",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"third (thirds)",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"third quartile",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"thousands period",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"three-dimensional figure",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"three-dimensional figure",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"transformation",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"translation",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"transversal",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"trapezoid",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"triangle",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"turn",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+
+            ],
+			"u":[
+				{
+					"termEnglish":"unit rate",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"upper extreme",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ],
+			"v":[
+				{
+					"termEnglish":"value",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"variable",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"Venn diagram",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"vertex",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"vertex of a polygon",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"vertex of a solid figure",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"vertical angles",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"volume",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ],
+			"w":[
+				{
+					"termEnglish":"week",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"weight",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"whole",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ],
+			"x":[
+				{
+					"termEnglish":"x-axis",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"x-intercept",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ],
+			"y":[
+				{
+					"termEnglish":"yard",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"y-axis",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				},{
+					"termEnglish":"y-intercept",
+					"termSpanish":"character-spanish",
+					"defEnglish":"json data structural construct.",
+					"defSpanish":"character-def - spanish",
+					"audioEnglish":"sample_eng.mp3",
+					"audioSpanish":"sample_sp.mp3",
+					"animationId":"a",
+					"relatedTerms":""
+				}
+            ]
+
+            
+		}
+    }
+}

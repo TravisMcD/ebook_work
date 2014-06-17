@@ -1,0 +1,296 @@
+<!doctype html>
+<head>
+    <title>E-Book</title>
+	
+</style>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title></title>
+	<meta name="description" content="">
+	<meta name="author" content="Marcio Aguiar">
+
+	<!--  Mobile viewport optimized: j.mp/bplateviewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- CSS : implied media="all" -->
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/book/style.css" />
+	<link rel="stylesheet" type="text/css" href="css/book/wow_book.css"/>
+	<link rel="stylesheet" type="text/css" href="css/book/preview.css"/><!-- Uncomment if you are specifically targeting less enabled mobile browsers
+	
+	<!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
+	<script type="text/javascript" src="js/modernizr-1.6.min.js"></script>
+  <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+    
+    <script>
+	/*purushothaman // Get Session Start*/
+var unic=1,obj="";
+	function rwdata(urls){
+		var obj="";
+		$.ajax({
+			url:urls,
+			async:false,
+			cache:false,
+			success:function(msg)
+			{
+				obj=msg.split('_');
+			}
+		});
+		return obj;
+	}
+	
+	window.onload=function(){
+		recover();
+		//exptble();
+		
+	 }
+function exptble()	{
+		var obj=rwdata('./analytics.php?exptble=sucess');
+		//$("#currnt_tab ").find("tr:gt(0)").remove();
+		//$('#currnt_tab').append(obj);
+		//$('#currnt_tab tr:odd').css('background','rgb(243, 243, 243)')
+		
+	}
+function onexit(){
+	var dte=new Date(),dtestr=dte.getFullYear()+"-"+parseInt(dte.getMonth()+1)+"-"+dte.getDate()+" "+dte.getHours()+":"+dte.getMinutes()+":"+dte.getSeconds();
+	rwdata('./analytics.php?updates2=success&cls_tmr='+dtestr+'&ids='+sessionStorage.sndtab);
+}
+
+ window.onunload=function(){
+	onexit();
+}
+function recover(){
+		obj=rwdata('./analytics.php?visits=success');
+		if(obj !=""){
+			sessionStorage.sndtab=obj[3];
+		}
+		if(sessionStorage.hits==undefined || sessionStorage.hits=="NaN" || sessionStorage.hits=="undefined"){
+				if(obj[1]!=null){
+					  sessionStorage.hits=Number(obj[1])+1
+					}
+					else{
+						 sessionStorage.hits=unic;
+					}
+				  var dte=new Date(),dtestr=dte.getFullYear()+"-"+parseInt(dte.getMonth()+1)+"-"+dte.getDate()+" "+dte.getHours()+":"+dte.getMinutes()+":"+dte.getSeconds();
+				  
+				  rwdata('./analytics.php?chkinst=success&unics='+sessionStorage.hits+'&incs='+unic+'&strt_time='+dtestr)
+			}
+		  else{
+			
+			    //if(obj[1]=="undefined" || obj[1]==undefined)
+			    	//{
+			    	//  sessionStorage.hits=1;
+			    	//}else
+			    		//{
+			             sessionStorage.hits=Number(obj[1])+1;
+			    		//}
+				sessionStorage.sndtab=obj[3];
+				var dte=new Date(),dtestr=dte.getFullYear()+"-"+parseInt(dte.getMonth()+1)+"-"+dte.getDate()+" "+dte.getHours()+":"+dte.getMinutes()+":"+dte.getSeconds();
+	    		rwdata('./analytics.php?chkinst=success&unics='+sessionStorage.hits+'&incs='+unic+'&sndtab='+sessionStorage.sndtab+'&cls_tmr='+dtestr);
+	    		rwdata('./analytics.php?updates2=success&cls_tmr='+dtestr+'&ids='+sessionStorage.sndtab);
+			}
+		obj=rwdata('./analytics.php?visits=success');
+		if(obj !="")
+		{
+			sessionStorage.sndtab=obj[3];
+		}
+		//exptble();
+		//alert("complete");
+	}
+/*End Session */
+
+	   var loginType = 'student';
+	   var deviceType = "desktop";
+	   //alert(navigator.userAgent);
+	   if(navigator.userAgent.toLowerCase().indexOf('android') != -1){
+	   	 deviceType = 'android';
+	   }
+	   else if(navigator.userAgent.toLowerCase().indexOf('ipad') != -1){
+	   	 deviceType = 'ipad'
+	   }
+	   window.onorientationchange = function(){
+	      if(deviceType == 'ipad'){	
+		   	  if(window.orientation == 0 || window.orientation == 180){
+		   	  	 document.getElementById('all').style.display = 'none';
+		   	  	 document.getElementById('ipadMsg').style.display = 'block';
+		   	  }
+		   	  else{
+		   	  	document.getElementById('all').style.display = 'block';
+		   	  	document.getElementById('ipadMsg').style.display = 'none';
+		   	  }
+	   	  }
+	   	  else if(deviceType == 'android'){
+	   	  	
+		   	  if(window.orientation == 90 || window.orientation == -90){
+		   	  	 document.getElementById('all').style.display = 'none';
+		   	  	 document.getElementById('ipadMsg').style.display = 'block';
+		   	  }
+		   	  else{
+		   	  	document.getElementById('all').style.display = 'block';
+		   	  	document.getElementById('ipadMsg').style.display = 'none';
+		   	  }
+	   	  	
+	   	  }
+	   };
+	</script>
+
+</head>
+<body>
+<div id='ipadMsg'>Vertical Layout is not supported in Devices/Tablets.</div>
+<div id='progressCont'>
+         <div id='progressLabel'></div>
+         <div id='progressBar'>
+           <div id='loadingBar'></div>
+         </div>
+      </div>
+<div id='all'>
+ <div id='ebookContainer'>
+ <div id='mask'></div>
+ <div id='toolTipMsg'>Tool tip</div>
+ <!-- header position change to left bound -->
+ <div id='header' style='left: 20px; top: 0px;'>
+  
+    <div id='tocBtn' class='btns'></div>
+    <div class='separator'></div>
+    <div id='notesBtn' class='btns'></div>
+    <div class='separator'></div>
+    <div id='glossaryBtn' class='btns'></div>
+    <div class='separator'></div>
+    <div id='bookmarkBtn' class='btns'></div>
+    <div class='separator'></div>
+    <div id='highLightBtn' class='btns'></div>
+    <div class='separator'></div>
+    <div id='zoomInBtn' class='btns'></div>
+    <div class='separator'></div>
+    <div id='zoomOutBtn' class='btns'></div>
+    <div class='separator'></div>
+    <div id='searchBtn' class='btns'></div>
+    <div class='separator'></div>
+    <div id='helpBtn' class='btns'></div>
+   <!-- <div class='separator'></div>-->
+    <div id='activityBtn' class='btns'></div>
+    <div class='separator'></div>
+    <div id="backButton" class="btns" style="margin-top: 15px;"><a id='back'  href="#" title='go back one page'  ></a></div>
+    <div id="nextButton" class="btns" style="margin-top: 15px;"><a id='next'  href="#" title='go foward one page'></a></div>
+	
+    
+     
+   <!----------Bookmark---------->
+        <div id='bookmarkCont'>
+            <div id='bookmarkTitle'>Bookmark</div>
+            <table id='bookmarkTable'>
+            	<tr><td>Title&nbsp;:&nbsp;</td><td><input id='bookmarkText' type='text' style='width:257px' /></td></tr>
+                <tr><td colspan="2"><div id='deleteBookmark'>Delete</div><div id='addBookmark'>Add</div></td></tr>
+                <tr><td colspan="4"><div id='bookmarkList'></div></td>
+             </table>   
+      </div>
+      <!----------------------------------------------------->
+      
+        <!----------Search----------> 
+        <div id="searchContent">
+        	<div id='searchPanel'>
+                        <div id="searchCloseBtn"></div>
+                        <input type='text' id='searchText' placeholder="Search" />
+           		</div>
+            <div id='searchListCont'>
+                <div id='searchListDiv'></div>
+            </div>
+        </div>
+         <!-----------------------------------> 
+         
+         <!-----Toc content------>
+         <div id='tocContent'>
+         	 <div id='tocListContent'>
+             </div>
+         </div>
+         <!------------------------->
+   </div>
+      
+      
+
+	<div id="container">
+    	<!--<div id="nextButton"><a id='next'  href="#" title='go foward one page'></a></div>
+		<div id="backButton"><a id='back'  href="#" title='go back one page'  ></a></div>-->
+        
+
+	<div id="main">
+		
+  		<div id='features'>
+           
+		</div> <!-- features -->
+        
+       
+
+	</div>
+    
+   <!-- <div id='footer'>
+      <div id='rightFooter'>
+      </div>
+    </div>-->
+    
+    
+      
+      <div id="jumpCont">
+          <input type="text" id="jumpText" size="2"/>
+          <div id='jumpBtn'>Go</div>
+          <div id='jumpMenu'>Jump</div>
+      </div>
+      
+      <div id='glossaryPopup'>
+          <div id='glossaryBlacker'></div>
+         
+          <iframe id='glossaryLoader'></iframe>
+           <div id='glossaryCloseBtn'></div>
+      </div>
+
+      
+      <div id='activityPopup'>
+          <div id='activityBlacker'></div>
+          <div id='acitivityCloseBtn'></div>
+          <iframe id='activityLoader'></iframe>
+      </div>
+	<footer>
+
+	</footer>
+	</div> <!--! end of #container -->
+</div>
+
+<div id = 'higPallate'>
+   <div id='red_btn'></div>
+   <div id='green_btn'></div>
+   <div id='blue_btn'></div>
+   <div id='orange_btn'></div>
+   <div id='delete_btn'></div>
+   <div id='close_btn'></div>
+</div>
+
+<div id = 'defBox'>
+</div>
+
+<div id="notepad">
+    <div id='notepad_close'></div>
+    <div id='notepad_delete'></div>
+    <div id='notepad_save'></div>
+    <textarea rows="10" cols="50" id='notepad_txt'></textarea> 
+</div>
+</div>
+</div>
+
+
+	<!-- Javascript at the bottom for fast page loading -->
+  <script src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/wow_book.min.js"></script>
+	<script src="js/plugins.js"></script>
+	<script src="js/script.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/highlight.js"></script>
+    <script src="js/notepad.js"></script>
+	<!-- end concatenated and minified scripts-->
+
+	<!--[if lt IE 7 ]>
+	<script src="dd_belatedpng.js"></script>
+	<script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
+	<![endif]-->
+
+</body>
+</html>

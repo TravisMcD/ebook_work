@@ -1,0 +1,96 @@
+/* Stylesheet for my demo pages for jScrollPane - these styles aren't necessary for using jScrollPane and aren't specific to any particular example */
+
+body {
+	/*font-family: Arial, Helvetica, sans-serif;
+	font-family:interval-semi-bold;
+	
+	font-family:interval-regular;*/
+	font-size: 80%;
+}
+
+#new-version
+{
+	border: 2px solid #f00;
+	margin: 1em 0;
+	padding: .5em 1em 0;
+	background: #ffe;
+}
+
+#new-version h1
+{
+	margin-top: 0;
+}
+
+a.jScrollArrowUp {
+	background: #666 url(../images/arrow_up.png) no-repeat 0 0;
+	background-size:100%;
+
+}
+a.jScrollArrowUp:hover {
+	background: #666 url(../images/arrow_up.png) no-repeat 0 0;
+	background-size:100%;
+	
+}
+a.jScrollArrowDown {
+	background:#666 url(../images/arrow_down.png) no-repeat 0 0;
+	background-size:100%;
+	
+}
+a.jScrollArrowDown:hover {
+	background:#666 url(../images/arrow_down.png) no-repeat 0 0;
+	background-size:100%;
+	
+}
+a.jScrollActiveArrowButton, a.jScrollActiveArrowButton:hover {
+	
+	border:2px solid #C1C1C1;
+}
+
+
+.orange-bar .jScrollPaneTrack {
+	background: #f60;
+}
+.orange-bar .jScrollPaneDrag {
+	background: #00f url(../images/drag_grab.gif) no-repeat 50% 50%;
+}
+.orange-bar .scroll-pane {
+	background: #69f;
+}
+			
+.holder {
+	float: left;
+	margin: 0px;
+}
+
+.scroll-pane {
+	width: 211px;
+	height: 200px;
+	overflow: auto;
+	
+	float: left;
+	border:2px #D3D3D3;
+}
+
+.wide {
+	width: 400px;
+}
+
+.super-wide {
+	width: 700px;
+}
+
+.tall {
+	height: 400px;
+}
+#pane1 {
+}
+#pane2 {
+	height: 380px;
+	border:2px #D3D3D3;
+}
+#pane3 {
+	height: 190px;
+}
+#pane4 {
+	height: 190px;
+}

@@ -1,0 +1,72 @@
+<html>
+	<head>
+		<title></title>
+		 <meta charset='utf-8'>
+         <style>
+		   
+		body {
+		    font-family: Arial,Helvetica,sans-serif;
+		    margin: 0;
+		}
+		.headerInfo {
+		    color: #00134B;
+		    font-size: 285%;
+		    font-weight: bold;
+		    position: absolute;
+		}
+		.headerInfoWhite {
+		    color: #FFFFFF;
+		    font-size: 166%;
+		    font-weight: bold;
+		    position: absolute;
+		}
+		#header1 {
+		    left: 1%;
+		    top: 1%;
+		}
+		#header2 {
+		    left: 1%;
+		    top: 74%;
+		}
+		#header3 {
+		    left: 1%;
+		    top: 82%;
+		}
+		 .swf img{
+width: 25px;
+height: 25px;
+position: absolute;
+margin-left: -37px;
+margin-top: -3px;
+}
+
+.swf a{
+color:#0b0b55;
+text-decoration:none;
+font-weight:bold;
+font-size:18px;
+padding-left:40px;
+}
+</style> 
+       <script type="text/javascript" src="jquery/jquery.min.js"></script>   
+		<script>
+			   var perct = 3.5;
+				$(window).resize(function()
+				{
+					$('body').css('font-size',( $(window).width()/100)*perct+'px');
+				});
+				
+				function cal(){
+					document.body.style.fontSize = (($(window).width()/100)*perct)+'px';
+				}
+	</script>
+	</head>
+    <body>
+		    <div id='header1' class='headerInfo'>Introduction</div>
+             <div id='header2' class='headerInfo'>Lab 4</div>
+             <div id='header3' class='headerInfoWhite'>Introduction to the Microscope</div>
+			<img src='images/frontcover.jpg'  width="100%" height = "100%"/>
+	</body>
+<script type="text/javascript" src="jquery/jquery.min.js"></script>
+<script type="text/javascript" src="js/fitToScreen.js"></script>
+</html>

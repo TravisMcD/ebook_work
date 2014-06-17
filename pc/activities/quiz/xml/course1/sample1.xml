@@ -1,0 +1,3003 @@
+<assessmentItems>
+
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>Access and _____ shall be provided and maintained about all electrical equipment to permit ready and safe operation and maintenance of such equipment.
+</p>
+                </prompt>
+
+                <simpleChoice identifier="ChoiceA">ventilation</simpleChoice>
+                <simpleChoice identifier="ChoiceB">cleanliness</simpleChoice>
+                <simpleChoice identifier="ChoiceC">circulation</simpleChoice>
+                <simpleChoice identifier="ChoiceD">working space</simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>Equipment associated with the electrical installation can be located above or below other electrical equipment within their working space when the associated equipment does not extend more than _____ from the front of the electrical equipment.</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">3 in.</simpleChoice>
+                <simpleChoice identifier="ChoiceB">6 in.</simpleChoice>
+                <simpleChoice identifier="ChoiceC">12 in.</simpleChoice>
+                <simpleChoice identifier="ChoiceD">30 in.</simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceB</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>Illumination shall be provided for all working spaces about service equipment, switchboards, panelboards, and motor control centers _____.
+</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">over 600V</simpleChoice>
+                <simpleChoice identifier="ChoiceB">located indoors</simpleChoice>
+                <simpleChoice identifier="ChoiceC">rated 1,200A or more</simpleChoice>
+                <simpleChoice identifier="ChoiceD">using automatic means of control</simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceC</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>The minimum height of dedicated equipment space for motor control centers installed indoors is _____above the enclosure.</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">3 ft</simpleChoice>
+                <simpleChoice identifier="ChoiceB">5 ft</simpleChoice>
+                <simpleChoice identifier="ChoiceC">6 ft</simpleChoice>
+                <simpleChoice identifier="ChoiceD">6 1/2 ft</simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>Each multiwire branch circuit shall be provided with a means that will simultaneously disconnect all _____ conductors at the point where the branch circuit originates.</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">circuit</simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+    
+
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p></p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA"></simpleChoice>
+                <simpleChoice identifier="ChoiceB"></simpleChoice>
+                <simpleChoice identifier="ChoiceC"></simpleChoice>
+                <simpleChoice identifier="ChoiceD"></simpleChoice>								
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective></learningObjective>
+        <location></location>
+    </assessmentItem>    
+	
+	
+	
+	
+	
+ 
+</assessmentItems>

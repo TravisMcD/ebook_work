@@ -1,0 +1,5220 @@
+@charset "utf-8";
+/* CSS Document */
+
+.label_font_semibold{
+	font-family: Interval_Semibold;
+}
+.label_font_regular{
+	font-family:Interval_Regular;
+}
+
+/*--------------absolute_value_of_a_number Ends-----------*/
+
+.absolute_value{
+  text-align: center;
+  margin-top: -6%;
+}
+
+/*--------------absolute_value_of_a_number Ends-----------*/
+/* addition sentence starts */
+.addsentence_image{
+	position:absolute;
+	
+}
+/* addition sentence ends */
+/* acute_angle*******************************/
+.acuteangle_image{
+	left: 122px;
+    position: absolute;
+    top: 48px;
+}
+/******** end acute_angle*************************/
+
+/*   acute_triangle*************************/
+#acute_triangle{
+	text-align:center;
+	 margin-top: 15%;
+}
+
+/* end acute triangle***********/
+
+/*-------------------add Begins----------------*/
+.add_img{
+	position:absolute;
+	top: -44px;
+}
+/*-------------------add Ends----------------*/
+
+/*addend*/
+
+.addend{
+  text-align: center;
+  margin-top: -5%;
+}
+
+/*--------------addend Ends-----------*/
+
+/* adjacent angle starts*/
+.adjacent_angle_img
+{
+	margin-top: 10%;
+   text-align: center;
+}
+/*adjacent angle ends */
+
+/* after begins */
+.after_sub
+{
+	margin-top:25%;
+}
+.after_img
+{
+	
+    width: 340px;
+}
+.after_str
+{
+	position: absolute;
+	top: 56%;
+	left: 64%;
+}
+/* after ends */
+/* algebraric */
+.algebraric_numerals {
+	color: blue;
+}
+.algebraric_variables {
+	color: red;
+}
+.algebraric_operations {
+	color: green;
+}
+.algebraric_left_div {
+	margin-left: 126px;
+    margin-top: 76px;
+}
+
+
+/* alternate_exterior_angles_images begins*/
+
+.alternate_exterior_angles_images_img
+{
+	  margin-top: 12%;
+    text-align: center;
+}
+/* alternate_exterior_angles_images ends*/
+
+/* alternate interior angles starts  */	
+.alternate_interior_angles_sub{
+	text-align:center;
+	margin-top: 13%;
+}
+/* alternate interior angles ends  */
+
+/* analog clock*/
+.analogclock_img{
+	margin-left:90px;margin-top:35px;
+}
+#chord_point{
+	left: 139px;
+    position: absolute;
+    top: 59px;
+}
+/* angle starts */
+.angle_img 
+{
+margin:0px;	
+}
+#angle_img {
+    left: 36px;
+    position: absolute;
+    top: 0;
+    float: left;
+}
+.angle_label
+{
+    left: 247px;
+    position: absolute;
+    top: 78px;	
+}
+.angle_label1
+{
+    left: 0;
+    position: relative;
+    top: 76px;
+}
+
+.ray_arrow1
+{
+	height: 41px;
+    left: 203px;
+    position: absolute;
+    top: 56px;
+}
+.ray_arrow2
+{
+	height: 39px;
+    left: 206px;
+    position: absolute;
+    top: 85px;
+}
+
+.common_arrow
+{
+	height: 46px;
+    left: 58px;
+    position: absolute;
+    top: 88px;
+}
+/* angle ends  */
+/*-----------area Begins--------------*/
+.area_img{
+	height: 117px;width: 184px;margin-left: 105px;margin-top: 50px;
+}
+.area_txt{
+	text-align:center;
+	}
+#area_art {
+	background-image: url('../images/area_images/area_24.jpg');
+	background-repeat: no-repeat;
+	height: 117px;
+	width: 184px;
+	margin-left: 105px;
+	margin-top: 50px;
+}
+/*-----------area Ends--------------*/
+/*Array 015 */
+
+#array_img{
+	left: 123px;
+    position: absolute;
+    top: 75px;	
+}
+.array_row{
+    left: 69px;
+    position: absolute;
+    top: 94px;
+}
+.array_column{
+left: 156px;
+    position: absolute;
+    top: 48px;
+	}
+/*---end---*/
+/*ASA*/
+.asa_image{
+	left: 30px;
+    position: absolute;
+    top: 71px;
+}
+
+/*--------------ASA Ends-----------*/
+
+/* associative_property_of_addition  & multiplication starts*/
+.asso_image{
+	left: 121px;
+    position: absolute;
+    top: 87px;
+}
+/* associative_property_of_addition  & multiplication ends */
+
+/* addtision sentence */
+.addsentence{
+    left: 131px;
+    position: absolute;
+    top: 101px;
+}
+/*   base_10_img*/
+.base_10_img{
+margin-top:25px;margin-left:25px;width:150px; height:150px;
+}
+.base_10_hundred{
+margin-left:75px;
+}
+.base_10_tensimg{
+left: 225px;position: absolute;top: 24px;height:150px;
+}
+.base_10_tens_text{
+left: 222px;position: absolute;top: 175px;
+}
+.base_10_one_img{
+left: 290px; position: absolute;top: 155px;
+}
+.base_10_ones_txt{
+left: 286px;position: absolute;top: 175px;
+}
+/*bar_graph starts*/
+#bar_graph {
+	background-image: url('../images/bar_graph_images/019_bar_graph.jpg');
+	background-repeat: no-repeat;
+	height: 213px;
+	width: 270px;
+	margin-left: 50px;
+}
+.bar_ball {
+	background-color: #004567;
+	border: 0.5px solid;
+	float: left;
+	height: 100%;
+	/*margin-top: 160px;*/
+	width: 40px;
+}
+
+#bar_holder
+{
+	height:162px; 
+	width: 240px;
+	overflow:hidden;
+}
+.bar_ball
+{
+	background-color: #1688C6;margin-top: 160px;margin-left:40px;
+}
+/*--------------bar_graph Ends-----------*/
+
+/* base of parallelogram starts */ 
+#parall_img {
+    left: 80px;
+    position: absolute;
+    top: 25px;
+}
+.parall_label
+{
+	
+    left: 100px;
+    position: relative;
+    top: 128px;
+}
+
+/* base of parallelogram ends */
+
+/* base of triangle starts */
+#triang_img {
+    left: 100px;
+    position: absolute;
+    top: 25px;
+}
+
+.tria_label
+{
+    left: 130px;
+    position: relative;
+    top: 128px;
+	
+}
+
+/* base of triangle ends */
+/* base of trapezoid starts */
+
+#trapez_img {
+    left: 100px;
+    position: absolute;
+    top: 25px;
+}
+
+/* base of trapezoid ends */
+/*before starts */
+.before_img
+{
+	margin-top: 100px;width: 350px;
+}
+.before_txt
+{
+	margin-left: 50px;margin-top: -2px;
+}
+/*beforeends */
+
+
+/*benchmark begins */
+.benchmark
+{
+	margin-top: 17%;
+   text-align: center;
+
+}
+.benchmark2
+{
+	 margin-top: 5%;
+   text-align: center;
+
+}
+/*benchmark ends */
+
+/*  box and whisker */
+
+.box_and_whisker_class{
+	margin-top:20%;
+}
+/*  box and whisker ends */
+
+/* broken scale */
+#broken_scale_zoom {
+	position:absolute;
+	top:50px;
+	width: 50px;
+}
+.broken_scale_img{
+position:absolute;left:152px;top:20px;width:200px;
+}
+/* between starts */
+
+.between_bracket
+{
+	height:10px;
+	width:180px;
+	position:absolute;
+	top:106px;
+	left:118px;
+	
+}
+
+.between_panel
+{
+	margin-left: 12px;
+    margin-top: 80px;
+}
+
+.between_txta
+{
+	position:absolute;left:120px;top:125px;
+}
+
+/* between ends */
+/*---------consecutive angle------------ */
+.consecutive_ang1
+{
+	margin-top:38px;
+	margin-left:70px;
+	text-align:left;
+}
+/*---end---*/
+
+/* centimetre pushpin and cryon */
+.centimeter_ruler {
+    text-align: center;
+	 margin-top: 12%;
+}
+
+/* centimetre ruler */
+.centimeter_ruler_id {
+	width: 329px;
+	height: 33px;
+	margin-left: 9px;
+	margin-top: 79px;
+}
+
+/* circle graph */
+.circle_graph_id{
+	position: absolute;
+    top: -13px;
+}
+/* coordinate plane */
+
+.coordinate_plane_image{
+	left: 73px;
+    position: absolute;
+    top: -8px;
+}
+/* capacity */
+.capacity_img {
+	margin-left: 114px;
+    margin-top: 18%;
+}
+/* customary_units */
+.customaryunits_image{
+	left: 39px;
+    position: absolute;
+    top: 56px;
+}
+/* expand*/
+
+
+/* coefficient  */
+
+.coefficient_iindent{
+	margin-left: 7%;
+    margin-top: -1%;
+}
+
+/* coefficient ends */
+
+/* compare starts */
+.compare_image{
+	 left: 99px;
+    position: absolute;
+    top: 70px;
+}
+/* compare ends */
+
+
+
+/* center begins */
+#center_arr{
+	left: 39px;
+    position: absolute;
+    top: -4px;
+}
+.center_txt{
+    left: 77px;
+    position: absolute;
+    top: -30px;
+}
+.center_img
+{
+	left: 126px;
+    position: absolute;
+    top: 74px;
+}
+/* center ends */
+
+/* compatible_numbers begins */
+.congurent_img{
+	position: absolute;top: 35px;
+}
+.compatible_numbers_img
+{
+	position: absolute;
+	width: 300px;
+	left: 11px;
+	top: 19px;
+}
+.compatible_numbers_str
+{
+	position: absolute;
+	top: 12px;
+	left: 139px;
+}
+/* compatible_numbers ends */
+/* cup starts */
+
+.cup_img
+{
+	background: url(../images/cup_images/070_cup.png);
+	height:88px;
+	width:142px;
+	margin: 0 auto 0 120px;
+	margin-top:70px;
+}
+.cup_img1
+{
+	background: url("../images/cup_images/cup1.png");
+    height: 88px;
+    margin: 70px auto 0 120px;
+    width: 142px;
+}
+.cup_img2{
+	background: url("../images/cup_images/070_cupsp5.png");
+    height: 88px;
+    margin: 70px auto 0 120px;
+    width: 175px;
+}
+.cup_imgsp2{
+background: url("../images/cup_images/070_cup5.png");
+    height: 88px;
+    margin: 70px auto 0 120px;
+    width: 175px;
+	}
+.cup_fill
+{
+
+    background: #91D3E7;
+    height: 0px;
+    left: 35px;
+    opacity: 0.5;
+    position: relative;
+    top: 72px;
+    width: 57px;
+
+	
+	/* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+
+  /* IE 5-7 */
+  filter: alpha(opacity=50);
+
+  /* Netscape */
+  -moz-opacity: 0.5;
+
+  /* Safari 1.x */
+  -khtml-opacity: 0.5;
+
+  /* Good browsers */
+  opacity: 0.5;
+  
+}
+.cup_arrow
+{
+	/*left: 108px;
+    position: absolute;
+    top: 72px;*/
+	//display:none;
+	 margin: 1px auto 0;
+}
+
+.cup_label
+{
+	 left: 11px;
+    position: relative;
+    top: -20px;
+}
+
+/* cup ends */
+/* congruent_polygons_images */
+.congruent_polygons{
+	text-align:center;
+	margin-top:35px;
+}
+/* congruent_polygons_images */
+
+/* congruent_segments begins */
+
+.congruent_segments
+{
+	text-align:center;
+	margin-top: 7%;
+}
+/* congruent_segments ends */
+
+/* certain starts  */	
+.certain_sub{
+     margin-top: 10%;
+    text-align: center;
+}
+/* certain ends  */	
+
+
+/* common factor */
+
+.common_factor
+{
+	text-align:center;
+	margin-top: -6%;
+}
+
+
+/* common factor */
+
+/* common multiple */
+
+.common_multiple
+{
+	 margin-left: -4%;
+    margin-top: -8%;
+}
+/* common multiple */
+
+
+/* count back starts  */
+
+.countback_images{
+	left: 134px;
+    position: absolute;
+    top: 110px;
+	}
+
+
+/* count back ends  */
+
+/* counting principle starts */
+.principle_images{
+	left: 91px;
+    position: absolute;
+    top: 50px;
+}
+/* counting principle ends */
+
+
+/* cross_multiplication  starts  */	
+.cross_multiplication_sub{ 
+  margin-left: 33%;
+    margin-top: 20%;
+}
+
+/* cross_multiplication  ends  */	
+
+/* cross_products  starts  */	
+#cross_products_sub{
+	 
+   margin-left: 33%;
+    margin-top: 20%;
+}
+
+/* cross_products  ends  */	
+
+
+/*-------------------central angle Begins----------------*/
+#central_marked {
+	background-image: url('../images/central_angle_images/circle_center_marked.png');
+	background-repeat: no-repeat;
+	height: 107px;
+	margin-left: 130px;
+	margin-top: 70px;
+	width: 107px;
+	background-size: 90px 90px;
+}
+
+#central_horiz_seg {
+	background-image: url('../images/central_angle_images/central_hori_line.png');
+	background-repeat: no-repeat;
+	height: 107px;
+	margin-left: 130px;
+	margin-top: 70px;
+	width: 107px;
+	background-size: 90px 90px;
+}
+#central_angle0{
+	background-image: url('../images/central_angle_images/angle_1.png');
+	background-repeat:no-repeat;height: 107px;
+	margin-left: 130px;margin-top: 70px;
+	width: 107px;background-size: 90px 90px;
+}
+#central_angle1{
+	background-image: url('../images/central_angle_images/angle_2.png');
+	background-repeat:no-repeat;height: 107px;margin-left: 130px;
+	margin-top: 70px;width: 107px;background-size: 90px 90px;
+}
+#central_angle2{
+	background-image: url('../images/central_angle_images/angle_3.png');
+	background-repeat:no-repeat;height: 107px;margin-left: 130px;
+	margin-top: 70px;width: 107px;background-size: 90px 90px;
+}
+#central_angle3{
+	background-image: url('../images/central_angle_images/angle_4.png');
+	background-repeat:no-repeat;height: 107px;margin-left: 130px;
+	margin-top: 70px;width: 107px;background-size: 90px 90px;
+}
+#central_angle4{
+	background-image: url('../images/central_angle_images/angle_5.png');
+	background-repeat:no-repeat;height: 107px;margin-left: 130px;
+	margin-top: 70px;width: 107px;background-size: 90px 90px;
+}
+#central_angle5{
+	background-image: url('../images/central_angle_images/angle_6.png');
+	background-repeat:no-repeat;height: 107px;margin-left: 130px;
+	margin-top: 70px;width: 107px;background-size: 90px 90px;
+}
+/*-------------------central angle Ends----------------*/
+/* corresponding angle */
+.corres_angle1
+{
+	left: 74px;
+    position: absolute;
+    top: 34px;
+}
+.corres_angle2
+{
+	left: 74px;
+    position: absolute;
+    margin-top: 46px;
+}
+/*complement_of_an_event*/
+.complement_event1
+{
+	margin-top:49px;
+	margin-left:60px;
+	text-align:left;
+}
+/*--------------complement_of_an_event Ends-----------*/
+
+
+
+/*cone*/
+#cone_align{
+	margin-top: 15%;
+    text-align: center;
+}
+
+/*--------------cone Ends-----------*/
+
+/*--------------corner-----------*/
+#corner{
+		margin-top: 15%;
+    text-align: center;
+}
+
+/*--------------corner Ends-----------*/
+
+
+/*--------------corresponding sides-----------*/
+
+#corres_polygons {
+	 margin-top: -5%;
+    text-align: center;
+}
+
+/*--------------corresponding sides Ends-----------*/
+
+/*--------------cubic unit-----------*/
+.cubic_unit_image{
+	left: 35px;
+    position: absolute;
+    top: 72px;
+}
+/*--------------cubic unit Ends-----------*/
+
+
+/*--------------customary units of weight Begins-----------*/
+.customary_ounce {
+
+	width: 40px;
+	margin-top: 120px;
+	margin-left: 35px;
+}
+#customary_pound {
+	margin-left: 30px;
+}
+#customary_ton {
+	margin-left: 214px;
+	margin-top: -140px;
+	width: 125px;
+}
+/*--------------customary units of weight Ends-----------*/
+
+/*--------------cylinder Begins-----------*/
+
+#cylinder_art {
+	background-image: url('../images/cylinder_images/cylinder.jpg');
+	background-repeat: no-repeat;
+	height: 117px;
+	width: 184px;
+	margin-left: 141px;
+	margin-top: 85px;
+}
+#cylinder_base {
+	background-image: url('../images/cylinder_images/cylinder_base.jpg');
+	background-repeat: no-repeat;
+	height: 117px;
+	width: 184px;
+	margin-left: 141px;
+	margin-top: 85px;
+}
+.cylinder_table{
+	position:relative;top:-139px;left:170px;
+}
+.cylinder_pointer{
+	position:relative;top:-158px;left:170px;
+}
+.cylinder_txt{
+	
+}
+/*--------------cylinder Ends-----------*/
+/* circle starts  */	
+#circle_sub{
+	text-align:center;
+	margin-top: 18%;
+}
+/* circle end  */
+
+/* circumference starts  */	
+#circumference_sub{
+	margin-top: 12%;
+    text-align: center;
+}
+
+/* corresponding angles of polygons starts  */	
+#corresponding_angles_of_polygons_sub{
+	margin-top: 4%;
+	text-align:center;
+}
+
+/* corresponding angles of polygons ends  */
+
+/* commutative_property_of_addition begins */
+.commu_add_image{
+	 left: 137px;
+    position: absolute;
+    top: 100px;
+	}
+/* commutative_property_of_addition ends */
+
+
+/* commutative_property_of_multiplication begins */
+
+.commutative_property_of_multiplication_text
+{
+	position: absolute;
+	left: 140px;
+	top: 110px;	
+}
+.commutative_property_of_multiplication_text1
+{
+	position: absolute;
+	left: 140px;
+	top: 140px;
+}
+/* commutative_property_of_multiplication ends */
+/* congruent angle starts */ 
+#cong_img
+{
+	position: absolute;
+	top:-18px;
+	left:70px;
+}
+
+
+#cong_img1
+{
+	left: -3px;
+    position: absolute;
+    top: 9px;
+}
+/* congruent ends */
+/* congruent */
+.congruent_img{
+	text-align:center;
+}
+.congruent_figures{
+	text-align:center;
+}
+
+/* decrease  starts*/
+
+.decrease_img
+{
+	float:left;
+	margin-left:5px;
+	margin-right:5px;
+	
+}
+
+.sphere_img
+{
+	
+	text-align:center;
+}
+#sphere_img
+{
+	margin:0 auto;
+}
+.sphere_txt
+{
+	
+    position: absolute;
+    top: 40px;
+}
+/* decrease ends */
+
+
+/* denominator starts */
+.denominator_1
+{
+  position: absolute;
+   top: -17px;
+}
+/* denominator ends */
+
+/*------------dependent events Begins------------*/
+.dependent_event1
+{
+	margin-left: -24px;
+    margin-top: -11px;
+    text-align: left;
+}/*------------dependent events Ends------------*/
+
+/* difference starts */
+.difference_1
+{
+	margin-top:51px;
+	margin-left:113px;
+	text-align:left;
+}
+/* difference ends */
+
+/* digit  begins*/
+.digit_1
+{
+	margin-top:60px;
+	margin-left:141px;
+}
+/* digit ends */
+
+/* diameter starts */
+.diameter_1
+{
+	margin-top:70px;
+	margin-left:120px;
+	text-align:left;
+}
+
+/* diameter ends */
+
+/* diagonal starts */
+.diagonal_class {
+	text-align: center;
+	margin-top: 45px;
+    
+}
+
+/* diagonal ends */
+
+/* double starts */
+
+#double_2
+{
+	  margin-left: 12%;
+    margin-top: 5%;
+}
+
+/* double ends */
+
+/*division Begins*/
+
+.division_img
+{
+   margin-top: 10%;
+   text-align: center;
+}
+/*division Ends*/
+
+/* double line graph */
+
+#double_line
+{
+	margin-left: 52px;
+	margin-top: 23px;
+}
+/* double line graph ends */
+
+/*---------degrees fahrenheit starts--------*/
+.degrees_f1
+{
+	margin-top:12px;
+	margin-left:80px;
+	text-align:left;
+}
+/*-----------degrees fahrenheit ends-----------*/
+
+
+/* divisor starts*/
+.divisor_1
+{
+	margin-top:65px;
+	margin-left:110px;
+	text-align:left;
+}
+/* divisor ends */
+
+/*--------------data point Begins-----------*/
+
+#data_tbl_graph {
+
+	margin-top: 33px;
+	width: 350px;
+}
+.data_point_arrows{
+	left: 195px;position: absolute;top: 145px;
+}
+.data_point_txt{
+	float: right;margin-right: 110px;margin-top: 2px;
+}
+/*--------------data point Ends-----------*/
+
+/*--------------data set Begins-----------*/
+#data_set_tbl_graph {
+	margin-top: 25px;
+	width: 350px;
+}
+.data_set1
+{
+	margin-top: 3px;
+	margin-left:10px;
+}
+/*--------------data set Ends-----------*/
+
+
+/*--------------date Begins-----------*/
+#date_art {
+	margin-top: 12%;
+    text-align: center;
+}
+/*--------------date Ends-----------*/
+
+/*--------------day Begins-----------*/
+#day_art {
+	margin-top: 10%;
+    text-align: center;
+}
+/*--------------day Ends-----------*/
+
+/*------------dependent events Begins------------*/
+#dependent_bags_of_marbles {
+	background-image: url('../images/dependent_evt_images/dependent_marbles.jpg');
+	background-repeat: no-repeat;
+	height: 117px;
+	width: 184px;
+	position: relative;
+	left: 85px;
+	top: 50px;
+}
+#dependent_fadeout_marbles {
+	background-image: url('../images/dependent_evt_images/depen_fadeout.png');
+	background-repeat: no-repeat;
+	height: 117px;
+	width: 184px;
+	margin-left: 85px;
+	margin-top: 50px;
+}
+#dependent_red_ball {
+	background-image: url('../images/dependent_evt_images/red_ball.png');
+	background-repeat: no-repeat;
+	height: 117px;
+	width: 184px;
+	left: 215px;
+    position: absolute;
+    top: 114px;
+}
+
+/*------------dependent events Ends------------*/
+
+
+/* dilation*/
+#dilation_redtri{
+	/*display:none;*/
+	height: 0px;
+    left: 187px;
+    position: absolute;
+    top: 48px;
+    width: 0px;
+}
+#dilation_redtriangle2{
+	/*display:none;*/
+	left: -235px;
+    position: absolute;
+    top: -199px;
+}
+#dilation_redtriangle3{
+	width:0px;
+	height:0px;
+	left: 95px;
+    position: absolute;
+    top: 44px;	
+}
+
+.dilation_img
+{
+	margin-left: 85px;margin-top: 9px;
+}
+
+/* decimal point 082 */
+.decimal_point_arrow{
+	
+    left: -12px;
+    position: absolute;
+    top: 20px;
+}
+.decimal_poin_id {
+	left: 151px;
+	position: absolute;
+	top: 70px;
+        
+}
+.decimal_point_label
+{
+	position:relative;left:-20px;top:23px;
+}
+  
+/* digital clock 093 */
+.digital_clock_1
+{
+ 	margin-left: -11px;
+    margin-top: -11px;
+}
+/* digital clock ends */
+
+/* distributive_property 096 */
+.distributive_p1
+{
+	margin-top:73px;
+	margin-left:80px;
+	text-align:left;
+}
+
+/* dime begins */
+.benchmark_img1
+{
+	float: left;
+    margin-left: 53px;
+    margin-top: 24px;
+}
+.benchmark_img2
+{	
+	margin-top:92px;
+	margin-left:123px;
+}
+.flowings
+{
+	top:-200px;
+	position:relative;
+}
+.finaldime{
+	left: 53px;
+    position: absolute;
+    top: 245px;
+}
+.dime_label
+{
+	position:relative;
+	text-align:center;
+	margin: 0 auto;
+	width:auto;
+	top:-10px;
+}
+/* dime ends */
+
+/* even number starts  */	
+.evennumber_1
+{
+	margin-top:63px;
+	margin-left:91px;
+	text-align:left;
+}
+/* even number ends  */
+
+/* equilateral triangle   */
+.equilateral_tri1
+{
+	margin-top:52px;
+	margin-left:83px;
+	text-align:left;
+}
+/*---ends------*/
+
+
+/* equivalent_class */
+.equivalent_rates{
+	position:absolute;
+	top: -39px;
+}
+/*ends*/
+
+/*-------------------equivalent fractions Begins----------------*/
+
+.equ_frac1
+{
+	margin-top:70px;
+	margin-left:110px;
+	text-align:left;
+}
+/*-------------------equivalent fractions Ends----------------*/
+
+/*-----------Exponent Begins------------*/
+.exponent_1
+{
+	margin-top:56px;
+	margin-left:75px;
+	text-align:left;
+}
+/*-----------Exponent Ends------------*/
+
+/* expanded notations begins */
+.expanded_notation{
+	position:absolute;
+	top: -22px;
+}
+/* expanded notations ends */
+
+
+
+
+/*-----------equivalent ratios Begins------------*/
+
+ .equiv_ratios_1
+{
+	 margin-left: 3px;
+    margin-top: -17px;
+}
+
+/*-----------equivalent ratios Ends------------*/
+
+/* equation -108 */
+
+#equation_image {
+	 margin-top: 16%;
+    text-align: center;
+
+}
+
+/*---ends------*/
+
+/* -- equlilateral   */
+.equlilateral_tri {
+	text-align: center;
+	margin-top: 32px;
+	
+}
+.equilateral_text{
+	margin-top:8px;
+}
+.equilateral_text1{
+margin-top:7px;
+}
+/*---ends------*/
+
+
+/* edge 103 */
+.edge_image{
+	left: 105px;
+    position: absolute;
+    top: 54px;
+}
+/*---ends------*/
+
+
+/* equation bar */
+
+.equation_bar_class {
+	
+	margin-left: 36%;
+    margin-top: 21%;
+}
+/*---ends------*/
+
+/* equal_sign begins */
+.equal_sign_values
+{
+	margin-top: 80px;
+	margin-left: 120px;
+	
+}
+/* equal_sign ends */
+
+
+/* estimate 113 */
+.estimate_1
+{
+ 	margin-left: 1px;
+    margin-top: -14px;
+}
+/* estimate ends */
+
+/* event starts */ 
+#event_ball_img
+{
+	position:absolute;
+	top:115px;
+	left:145px;
+}
+
+.event_label {
+    
+    left: 122px;
+    position: relative;
+    top: 192px;
+}
+
+.event_label_spanish {
+    
+    left: 115px;
+    position: relative;
+    top: 192px;
+}
+.event_label_nickel{
+	
+	left:95px; top:192px;
+	 position: relative;
+}
+
+#event_img {
+    left: 88px;
+    position: absolute;
+    top: 60px;
+}
+
+#event_nickel_img
+{
+	left: 140px;
+    position: absolute;
+    top: 114px;
+    width:66px;
+    height:66px;
+}
+/* event ends */
+/* factor starts */
+#factor_1
+{
+	 margin-top: -16px;
+    text-align: center;
+}
+/* factor ends */
+
+/* factors begins */
+
+.factors_values {
+	margin-left: -14px;
+    margin-top: -22px;
+}
+
+/* factors ends */
+
+/* flip starts */
+.flip_class{
+	position: absolute;
+	top: 60px;
+	left: -5px;
+}
+#flip_redline{
+	height:0px;
+	width:0px;
+    left: 181px;
+    position: absolute;
+    top: -24px;
+    background-color: red;
+    border: 1px solid red;
+}
+#flip_image{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+/* foot begins*/
+.foot_txt{
+ 	margin-left: 4%;
+    margin-top: -5%;
+}
+/* foot ends */
+
+/*   acute_triangle*************************/
+#acute_triangle{
+	text-align:center;
+	 margin-top: 15%;
+}
+
+/* end acute triangle***********/
+
+/* fourth starts  */	
+.fourth_sub{
+
+	 margin-top: 18%;
+    text-align: center;
+}
+/*fourth ends  */
+
+
+/* fraction starts  */	
+.fraction_sub{
+	margin-top:12%;
+	text-align:center;
+}
+.fraction_sub3{
+	margin-top:-4%;
+	text-align:center;
+}
+.fraction_sub1{
+	margin-top:20%;
+	text-align:center;
+}
+
+/*fraction ends  */
+
+/* fraction_circle starts  */	
+#fraction_circle_sub{
+
+	margin-top:10%;
+	text-align:center;
+}
+/*fraction_circle ends  */
+
+/* frequency starts  */	
+#frequency_sub{
+
+	margin-top:10%;
+	text-align:center;
+}
+/*frequency ends  */
+
+
+/*134_fraction bar*/
+.frac_bar
+{
+     margin-left: 27%;
+    margin-top: 70px;
+}
+
+/* ------------------------fraction strip */
+.fraction_strip_clss{
+     margin-top: 20%;
+    text-align: center;
+}
+
+/* ----------------------frequency table -------------*/
+.frequency_table_div{
+	left: 50px;
+    position: absolute;
+    top: 71px;
+}
+
+/* function begins */
+
+.function_img
+{
+	margin-top:18%;
+	text-align:center;
+}
+
+/* function ends */
+
+/*Function rule*/
+
+.func_rule {
+	text-align: center;
+	margin-top: 22px;
+}
+/*Function rule ends */
+
+/*Greater than symbol*/
+.greater_than_sym{
+border-bottom: 1px solid; width: 15px;
+}
+.greater_th {
+	text-align: center;
+	margin-top: 82px;
+	
+}
+
+/* graph starts  */	
+#graph_sub{
+	text-align:center;
+	margin-top: 4%;
+}
+/* graph ends  */
+
+/* gram begins */
+
+.gram_img1
+{
+	left: 26%;
+    position: absolute;
+    top: 34%;
+}
+.gram_img2
+{
+	 left: 60%;
+    position: absolute;
+    top: 31%;
+}
+/* gram ends */
+
+
+/* gallon begins */
+
+.gallon_img
+{
+	left: 29px;
+    position: absolute;
+    top: 80px;
+}
+.gallon_img1,.gallon_img2,.gallon_img3,.gallon_img4
+{
+	position: absolute;
+	top: 122px;
+}
+.gallon_img1
+{
+	left: 125px;
+}
+.gallon_img2
+{
+	left: 185px;
+}
+.gallon_img3
+{
+	left: 245px;
+}
+.gallon_img4
+{
+	left: 305px;
+}
+.images
+{
+	left:0px;
+	top: -50px;
+	position: absolute;
+}
+.gallon_action
+{
+	position: absolute;
+	top:50px;
+}
+.gallon_rotate
+{
+	position: absolute;
+	top: -58px;
+}
+.gallon_img22
+{
+	position: absolute;
+	left: 65px;
+	top: 8px;
+	display: none;
+}
+.gallon_fill
+{
+	display:none;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-left: thin solid #BDEDFF;
+    border-right: thin solid #BDEDFF;
+    height: 1px;
+    left: 62px;
+    position: absolute;
+    top: 42px;
+    width: 6px;
+}
+.gallon_label
+{
+	display:none;
+	left: 122px;
+    margin-left: 28px;
+    position: absolute;
+    top: 191px;
+}
+/* gallon ends */
+
+
+/* greatest common factor starts */
+
+
+.gcf_cont
+{
+	text-align:center;
+	margin-top:12%;
+	
+}
+.gcf_img
+{
+	
+  left: 22%;
+    position: absolute;
+    top: 13%;
+}
+.gcf_img_sp
+{
+	
+  left: 88px;
+    position: absolute;
+    top: 13%;
+}
+
+.gcf_img1
+{
+	left: 22%;
+    position: absolute;
+    top: 13%;
+}
+
+.gcf_img1_sp
+{
+	left: 88px;
+    position: absolute;
+    top: 13%;
+}
+
+
+/* greatest common factor ends */
+
+
+
+#hunrend_img{
+	height: 236px;
+    position: absolute;
+    width: 260px;
+}
+
+/* hundredth starts  */	
+#hundredth_sub{
+
+	
+	margin-top: 2%;
+	text-align:center;
+}
+.hundredth_txt
+{
+	
+    margin-left: 20%;
+    padding-top: 5%;
+}
+td.hundredth_l1
+{
+	border-bottom: 3px solid #000000;
+}
+.hundredth_table
+{
+	margin-top: -17px;
+	margin-left: 100px;
+	float:left
+}
+.hundredth_style{
+	left: 93px;position: absolute;top: 150px;
+}
+.hundredth_style1{
+	left: 200px;
+    position: absolute;
+    top: 150px;
+}
+/* hundredth ends  */
+/* hexagon begins*/
+.hexagon_1
+{
+	margin-top:39px;
+	margin-left:85px;
+	text-align:left;
+}
+
+/* hexagon ends */
+/* base of trapezoid starts */
+ 
+ 
+#trapez_img {
+    left: 100px;
+    position: absolute;
+    top: 25px;
+}
+.hgt_trap_text{
+	
+     left: 140px;
+    position: absolute;
+    top: 75px;
+}
+/* base of trapezoid ends */
+/* increase  starts*/
+
+.increase_img
+{
+  	float: left;
+    margin-left: 7px;
+    margin-right: 2px;
+    margin-top: 23px;
+	
+}
+
+.fade
+{
+	display:none;
+}
+#sphere_img
+{
+	text-align:center;
+	margin:43px auto;
+}
+#sphere_img1
+{
+	display:none;
+	text-align:center;
+	margin:43px auto;
+}
+/* increase ends */
+
+/*inequality*/
+.inequality_img{
+	 left: 128px;
+    position: absolute;
+    top: 34px;
+}
+/*inequality symbols*/
+table.tabl {
+	text-align: center;
+	width: 300px;
+}
+td.tabltd {
+	visibility: hidden;
+}
+.inequ_symbol {
+	text-align: center;
+	
+	margin-top: 82px;
+}
+/*input-output table*/
+.in_out_tbl{
+font-weight: bold; font-style: italic;
+}
+.in_out_table {
+	text-align: center;
+	
+	margin-top: 32px;
+}
+table.tab1 {
+	border: 1px solid black;
+	text-align: center;
+	border-collapse: collapse;
+	width: 150px;
+}
+td.tabtd1 {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.isosceles_tri {
+	text-align: center;
+	margin-top: 32px;
+}
+/* impossible starts  */	
+.impossible_1
+{
+	margin-left: -13px;
+    margin-top: -19px;
+}
+/* impossible ends  */	
+
+/* inch starts  */
+.inch_1
+{
+	margin-top:65px;
+	margin-left:124px;
+	text-align:left;
+}
+/* inch ends  */
+
+/* independent events starts  */
+.independent_events_1
+{
+	margin-left: 0;
+    margin-top: -8px;
+    text-align: left;
+}
+/* independent events ends  */
+
+/*integers starts*/
+.integers1
+{
+	margin-top: -22px;
+}
+/* integers ends  */
+
+/* intersecting lines starts  */	
+.intersect1
+{
+	margin-top:-38px;
+	margin-left:-38px;
+	text-align:left;
+}
+/* intersecting lines end  */
+
+
+/* interval starts  */	
+#interval_sub{
+	text-align:center;
+	margin-top: 10%;
+}
+
+/* interval end  */
+
+/* key starts  */	
+#key_sub{
+	text-align:center;
+	margin-top: 8%;
+}
+
+/* key end  */
+/* kilogram */
+.kilogram_div {
+	left: 45px;
+	position: absolute;
+	top: 0px;
+}
+.kilogram_img{
+	position:absolute;top:63px;
+}
+/* leaf starts  */	
+#leaf_sub{
+	text-align:center;
+	margin-top: 11px;
+}
+/* leaf ends  */
+.lcd_img{
+	position: absolute;
+    top: -16px;
+}
+/* lateral_surface begins */
+
+.lateral_area_img
+{
+	position: absolute;
+	left:102px;
+	top: 56px;
+}
+
+/* lateral_surface ends */
+
+
+/* line_graph begins */
+
+.line_graph_images{
+ margin-left: 35px;
+    margin-top: 10px;
+}
+
+/* line_graph ends */
+
+
+/* line_of_best_fit begins */
+
+.lineofbest1
+{
+	margin-top:-6px;
+	text-align:left;
+	margin-left:65px;
+}
+/* line_of_best_fit ends */
+
+
+/* line_plot begins */
+.line_plot_img
+{
+	position: absolute;
+	left: 30px;
+	top: 44px;
+}
+
+/* line_plot ends */
+
+/* line_symmetry begins */
+
+.line_symmetry_img
+{
+	position: absolute;
+	left: 110px;
+	top: 61px;	
+}
+.line_symmetry_img1{
+	position: absolute;
+	left: 124px;
+	top: 58px;
+}
+/* line_symmetry ends */
+
+/* length starts */
+.length1
+{
+	margin-left: 18px;
+    margin-top: -37px;
+}
+/* length ends */
+
+/* like term */
+.like_terms_div{
+	left: 97px;
+    position: absolute;
+    top: 81px;
+}
+#likeTerm_up{
+	
+    left: 58px;
+    position: absolute;
+    top: -50px;
+}
+#liketerm_center{
+	
+	margin-left:20px;
+}
+#likeTerm_down{
+	
+    left: 38px;
+    position: absolute;
+    top: 49px;
+}
+#liketerm_img1{
+	height: 32px;
+    left: 15px;
+    position: absolute;
+    top: 6px;
+}
+#liketerm_img2{
+	height: 32px;
+    left: 50px;
+    position: absolute;
+    top: -43px;
+}
+#liketerm_img3{
+	height: 29px;
+    left: 74px;
+    position: absolute;
+    top: 57px;
+    width: 41px;
+}
+
+/* linear eqaution */
+.linear_equation_div{
+	position: absolute;
+}
+#linear_equa_img{
+	position: absolute;
+	width: 350px;
+}
+#linear_eqau_line{
+	display:none;
+	left: 151px;
+    position: absolute;
+    top: 28px;
+    width: 145px;
+    height: 0px;
+    max-width:100px;
+}
+
+
+/*Liter*/
+
+.liter_1 {
+       margin-top: 10%;
+	   margin-left:5%;
+}
+
+/*-------------least_common_denominator Begins-----------*/
+#lcd_table{
+position:absolute;top:35px;left:131px;
+}
+.lcd_text{
+left: 94px;position: absolute;top: 152px;
+}
+.lcd_style_td{
+border-bottom-color: black; border-bottom-width: 3px; border-bottom-style: solid;
+}
+.lcd_style_td1{
+border-top-color: black; border-top-width: 3px; border-top-style: solid;
+}
+table.least_deno_table  td { 
+	width: 16px;
+	text-align:center;
+
+	}
+table.least_deno_table
+{
+margin-top:50px;
+}
+/*-------------least_common_denominator Ends-----------*/
+
+/*-------------least_common_multiple Begins-----------*/
+.lcm_label{
+color:blue;left: 60px;position: relative;
+}
+
+#least_common_multiple{
+	left: 14px;
+    position: absolute;
+    top: 65px;
+}
+#least_comm_multiple{
+	padding:10px 4px 9px 3px;
+    
+}
+#least_comm_multiple_1{
+	padding:10px 4px 9px 3px;
+    
+}
+#circle_common_fact{
+	background-image: url("../images/least_com_multi_images/factor.png");
+    background-repeat: no-repeat;
+    background-size: 22px auto;
+    padding: 7px 4px 6px;
+    position: relative;
+}
+#circle_redcommon_fact{
+	background-image: url("../images/least_com_multi_images/red_circle.png");
+    background-repeat: no-repeat;
+    background-size: 22px auto;
+    padding: 7px 4px 9px 3px;
+}
+/*-------------least_common_multiple Ends-----------*/
+
+/*line starts */
+.line1
+{
+	left: 99px;
+    position: absolute;
+    top: 96px;
+}
+.line2
+{
+	left: 99px;
+    position: absolute;
+    top: 74px;
+}
+
+/*line ends */
+
+
+/*least likely*/
+.least_like_font{
+position:absolute;left:135px;
+}
+.least_like_font1{
+position:absolute;left:112px;
+}
+.least_li {
+	text-align: center;
+	margin-top: 22px;
+	
+}
+/*less likely*/
+.less_like_font{
+position:absolute;left:139px;
+}
+.less_like {
+	text-align: center;
+	margin-top: 22px;
+	
+}
+/*line of symmetry*/
+.line_symmetry2{
+	left: 100px;
+    position: absolute;
+    top: 25px;
+}
+.line_symm{
+    left: 37px;
+    position: absolute;
+    top: 35px;
+}
+.line_symmetry {
+	text-align: center;
+	margin-top: 72px;
+	
+}
+/*line segment*/
+.line_seg {
+	text-align: center;
+	margin-top: 52px;
+	
+}
+/* ------------------------fraction strip */
+/* legs_right_triangle starts */
+
+.right_triangle_img 
+{
+	text-align:center;
+	margin-top:40px;
+}
+
+
+#legs_rt_eng, #legs_rt_span
+{
+	position: absolute;
+	top:106px;
+	left:83px;
+}
+
+#legs_rt_span
+{
+	left:63px;
+}
+
+#legs_arrow
+{
+	height: 45px;
+    left: 90px;
+    position: absolute;
+    top: 115px;
+}
+
+
+#legs_arrow1
+{
+	height: 45px;
+    left: 110px;
+    position: absolute;
+    top: 131px;
+}
+
+.legs_label{
+	
+   left: 84px;
+    position: absolute;
+    top: 165px;
+}
+
+.legs_label1{
+	
+    left: 40px;
+    position: absolute;
+    top: 151px;
+}
+/*legs right triangle ends */
+
+
+/*likely starts */
+
+.likely_img
+{
+	text-align: center;
+}
+.likely_text
+{
+	position: absolute;
+	top:135px;
+	left:79px;
+	
+}
+/*likely emds */
+/* multiply starts */
+
+.multiply_visi
+{
+	margin-top:30px;
+	margin-left: 15px;
+	margin-right:35px;
+}
+.multiply_fade
+{
+	margin-top:30px;
+	margin-right:35px;
+	display: none;
+}
+
+.multiply_text
+{
+	position:absolute;
+	top:120px;
+	left:90px;
+	/*font-size:14pt;*/
+	display: none
+}
+
+/*multiply ends */
+
+
+/*216_Multiplication Property of One*/            
+.mul_property
+{
+    line-height: 2em;
+    text-align: center;
+    margin-top: 32px;
+    
+}
+
+/*multiple*/
+/*mass*/
+.mass_1 {
+	text-align: center;
+	margin-top: 32px;
+	
+}
+/*mean*/
+.meann {
+    left: 79px;
+    position: absolute;
+    top: 50px;
+}
+.thi_step
+{
+position: absolute;
+left: 139px;
+}
+
+/* measure */
+.measure{
+	  
+    text-align: center;
+}
+
+/*---------median starts -----------*/
+#median_sub
+{
+      margin-top: 12%;
+    text-align: center;
+}
+/* median end */
+
+/* meter starts  */	
+.meter_1
+{
+	margin-top:36px;
+	margin-left:0px;
+	text-align:center;
+}
+/* meter ends  */
+
+/*make a 10*/
+.make_ten_1{
+	  margin-left: 27%;
+	 top: 6%;
+	 position:absolute;
+}
+
+/*minus*/
+.minus
+{
+    text-align: center;
+  margin-top: 12%;
+   
+}
+/*minute hand*/
+.minutehand1
+{
+	margin-top:0px;
+	margin-left:79px;
+	text-align:left;
+}
+/*more likely starts */
+
+.more_likely_img
+{
+	text-align: center;
+}
+
+/*more likely emds */
+
+
+/*most likely starts */
+
+.most_likely_img
+{
+	text-align: center;
+}
+/*most likely emds */
+/*numerical_expression*/
+.num_express
+{
+    text-align: center;
+ margin-top: 15%;
+    
+}
+/* ------------------nonlinear function */
+.nonlinear1
+{
+	margin-top:-1px;
+	margin-left:100px;
+	text-align:left;
+}
+/* ------------------nonlinear function */
+/* nickel begins */
+.nickel_img_index{
+z-index:1; left:57px; position: relative;
+}
+.nickel_img
+{
+	margin-top:117px;
+	margin-left:105px;
+	width:55px;
+	height:55px;
+}
+
+.nickel_img1
+{
+	float: left;
+	width:55px;
+	height:55px;
+}
+.ni_flowing
+{
+	top:-248px;
+	position:relative;
+	
+}
+.nickel_text
+{
+	
+    left: 160px;
+    position: absolute;
+    top: 183px;
+}
+ 
+ 
+ 
+/* nickel ends */
+/* penny starts */
+.penny_img
+{
+	margin-top: 188px;
+	margin-left: 100px;
+}
+.penny_img_down{
+	margin-top: 147px;
+	margin-left: 122px;
+	width: 21px;
+	height: 21px;
+	z-index:2;	
+}
+.hidden_white{
+	visibility:hidden;
+}
+.penny_imgg{
+	z-index: 1;
+	left: 	9px;
+	top: -100px;
+	position: relative;
+}
+.penny_img1
+{
+	float: left;
+	width:21px;
+	height:21px;
+	z-index:0;
+}
+#nickel_second{
+	width: 230px;
+	overflow-wrap: break-word;
+	position: absolute;
+	left: 56px;
+	height: 175px;
+	top: 34px;
+}
+#penny_final{
+	width: 230px;
+	overflow-wrap: break-word;
+	position: absolute;
+	left: 56px;
+	height: 175px;
+	top: 189px;
+}
+#down2{
+	background-image: url("../images/penny_images/text_coin2.png");
+	width: 118px;
+	height: 39px;
+	position: absolute;
+	bottom: 17px;
+	left: 120px;
+	z-index: 2;
+}
+.flowing
+{
+	top:-255px;
+	position:relative;
+	
+}
+.penny_label
+{
+	font-size:14pt;
+	position:absolute;
+	text-align:center;
+	margin: -22px 0 auto;
+	width:auto;
+	top:230px;
+	left:110px;
+}
+.penny_label1
+{
+	font-size:14pt;
+	position:absolute;
+	text-align:center;
+	margin: -22px 0 auto;
+	width:auto;
+	top:230px;
+	left:53px;
+	//margin-left:50px;
+}
+/* penny ends */
+
+/*net starts*/
+.net1
+{
+	margin-top:32px;
+	margin-left:30px;
+}
+/*net ends*/
+
+/* negative interger */
+.negative_intergers_img{
+	position:absolute;
+	top:80px;
+}
+.corelation_harrow
+{
+	display:none;
+	height: 8px;
+    left: 93px;
+    position: absolute;
+    top: 38px;
+    width: 0px;
+}
+.corelation_varrow
+{
+	width:6px;
+	display:none;
+	height: 0px;
+    left: 279px;
+    position: absolute;
+    top: -43px;
+}
+.corelation_harrow1
+{
+	
+	height: 8px;
+    left: 93px;
+    position: absolute;
+    top: 38px;
+    width: 188px;
+}
+.corelation_varrow1
+{
+	width:6px;
+	height: 93px;
+    left: 279px;
+    position: absolute;
+    top: -43px;
+}
+.corelation_1
+{
+ 	left: 45px;
+    position: absolute;
+    top: -87px;
+	
+}
+/* negative correlation */
+
+/* obtuse angle*/
+.obtuseangle1
+{
+	margin-top:59px;
+	margin-left:98px;
+	text-align:left;
+}
+
+/* obtuse triangle starts  */	
+.obtusetriangle1
+{
+	margin-top:67px;
+	margin-left:107px;
+	text-align:left;
+}
+/*obtuse triangle ends  */	
+
+/* octagon starts  */	
+.octagon1
+{
+	margin-top:20px;
+	margin-left:80px;
+	text-align:left;
+}
+/*--------- octagon triangle ends -----------*/
+
+
+/* odd number starts  */	
+#odd_number_sub{
+	margin-left: 25%;
+	line-height: 235%;
+	margin-top: 10%;
+   
+}
+#oind5
+{
+	 margin-left:40px;
+}
+#oind4
+{
+	 margin-left:60px;
+}
+#oind1
+{
+	 margin-left:0px;
+}
+#oind2
+{
+	 margin-left:60px;
+}
+#oind0
+{
+	 margin-left:60px;
+}
+#oind3
+{
+	 margin-left:75px;
+}
+.odd_number_disp
+{
+	text-align:center;
+	padding:16px;
+	 width: 36px;
+}
+.odd_number{
+	height:30px;
+	width:30px;
+	
+}
+/* odd number ends  */
+
+/*ones block starts */
+
+.ones_block_img
+{
+	position:absolute;
+	top: -23px;
+}
+
+#hundreds_block, #tens_block, #ones_block
+{
+	position:absolute;
+	top:10px;
+	left:44px;
+}
+
+#tens_block
+{
+	
+	left:235px;
+}
+#ones_block
+{
+	
+	left:261px;
+}
+
+.final_step
+{
+    position: absolute;
+    left: 146px;
+}
+/*opposite of an integers*/
+.opp_integer
+{
+    text-align: center;
+    margin-top: 95px;
+}
+.opp_integer1
+{
+	 width:100%;
+}
+
+/*236 opposite of a number*/
+.opp_of_num
+{
+    text-align: center;
+    margin-top: 18%;
+}
+
+
+/* order starts */
+#order_sub
+{
+   margin-left: 10%;
+    margin-top: 11%;
+  
+}
+
+/* order end */
+
+/*order of operations*/
+.order_ope
+{
+    margin-top: 6%;
+    text-align: center;
+}
+
+/*240_ordered_pair*/
+.order_pair
+{ 
+     margin-top: 8%;
+    text-align: center;
+}
+/* ordinal number starts */
+.ordinal_number_sub
+{
+   margin-top: 20%;
+    text-align: center;
+}
+/* ordinal number end */
+
+/*242_origin*/
+.originn
+{
+    text-align: center;
+  
+}
+
+/*ounce*/
+.ounce
+{
+    text-align: center;
+    margin-top: 12%;
+}
+/* outcome */
+
+.outcome_marble{
+	 left: 12%;
+    position: absolute;
+    top: 2px;
+}
+.outcome_div{
+	left: 77px;
+    position: absolute;
+    top: 44px;
+}
+/* outlier starts  */	
+#outlier_sub{
+	margin-top: 10%;
+    text-align: center;
+}
+
+/*outlier ends  */	
+
+
+/*prime_factorization*/
+.primee {
+	text-align: center;
+	
+	margin-top: 90px;
+}
+/*prime_factorization*/
+/* point starts */
+.point1
+{
+	margin-top:-41px;
+	margin-left:-13px;
+	text-align:left;
+}
+
+/* point ends */
+
+/* point of rotation starts */
+.point_of_rotation1
+{
+	margin-top:-35px;
+	margin-left:-16px;
+	text-align:left;
+}
+/* point of rotation ends */
+
+
+/* place value starts */
+.placevalue1
+{
+	margin-top:-50px;
+	margin-left:-18px;
+	text-align:left;
+}
+/* place value ends */
+/* plane_figure****************************/
+
+.plane_fig_cubes{
+	left: 38%;
+    position: absolute;
+    top: 30%;
+    width: 60px;
+}
+#plane_figure_harr{
+    left: 79px;
+    position: absolute;
+    top: 159px;
+    width: 0px;
+}
+#plane_figure_varr{
+	height: 0px;
+    left: 276px;
+    position: absolute;
+    top: 70px;
+}
+/* plane ************************************/
+.plane_div{
+	left: 150px;
+    position: absolute;
+    top: 81px;
+}
+.plane_div{
+	border: 1px solid #b2b2ff;
+	background-color:#b2b2ff;
+    height: 30px;
+    left: 162px;
+    position: absolute;
+    top: 86px;
+    width: 30px;
+}
+/*.plane_zoom{
+	border: 1px solid #b2b2ff;
+	background-color:#b2b2ff;
+    height: 30px;
+    left: 78px;
+    position: absolute;
+    top: 10px;
+    width: 30px;
+}*/
+
+/*powers_of_10 starts */
+.power_of_10
+{
+	margin-top:-13px;
+	margin-left:-24px;
+	text-align:left;
+}
+/* power_of_10 ends */
+
+/*prime_number starts*/
+.prime_number1
+{
+	margin-top:-46px;
+	margin-left:-1px;
+	text-align:left;
+}
+/* prime number ends */
+
+/*positive integers*/
+.pos_integers
+{
+    text-align: center;
+    margin-top: 95px;
+   
+}
+
+/*probability************************/
+.probability_div{
+    left: 36%;
+    position: absolute;
+    top: 21%;
+}
+.probability_text_eng_1{
+	position:absolute;left:-45px;width:178px;top:87px;
+}
+.probability_text_eng_2{
+	border-bottom:1px solid;width:12px;position:absolute;left:138px;
+	text-align:center;
+
+}
+.probability_text_eng_3{
+	position:absolute;top:104px;left:142px;text-align:center;
+	/*border:1px solid green;*/
+}
+
+.probability_text_span_1{
+	position:absolute;left:-78px;width:218px;top:87px;
+}
+.probability_text_span_2{
+	border-bottom:1px solid;width:12px;position:absolute;left:144px;text-align:center;
+
+}
+.probability_text_span_3{
+	position:absolute;top:104px;left:148px;text-align:center;
+}
+.probability_cnt_8{
+	position:absolute;left:25%;top:16%;
+}
+.probability_cnt_9{
+	position:absolute;left:25%;top:16%;
+}
+.probability_eng_blue_1{
+position:absolute;left:78px;width:180px;top:150px;
+}
+.probability_eng_blue_2{
+border-bottom:1px solid;width:12px;position:absolute;left:240px;top:157px;text-align:center;
+}
+.probability_eng_blue_3{
+position:absolute;top:163px;left:241px;text-align:center;
+}
+.probability_eng_blue_4{
+position:absolute;left:270px;top:150px;
+}
+.probability_eng_blue_5{
+border-bottom:1px solid;width:12px;left:290px;top:158px;position:absolute;text-align:center;
+}
+.probability_eng_blue_6{
+position:absolute;top:163px;left:293px;
+}
+.probability_span{
+position:absolute;left:25%;top:16%;
+}
+
+
+.probability_span_blue_1{
+position:absolute;left:59px;width:185px;top:150px;
+}
+.probability_span_blue_2{
+border-bottom:1px solid;width:12px;position:absolute;left:245px;top:157px;text-align:center;
+}
+.probability_span_blue_3{
+position:absolute;top:163px;left:245px;
+}
+.probability_span_blue_4{
+position:absolute;left:270px;top:150px;
+}
+.probability_span_blue_5{
+border-bottom:1px solid;width:12px;left:294px;top:158px;position:absolute;text-align:center;
+}
+.probability_span_blue_6{
+position:absolute;top:163px;left:297px;
+}
+/*pictograph************************/
+.pictograph_div{
+	left: 20%;
+    position: absolute;
+    top: 17%;
+}
+
+/* pentagon */
+.pentagon_image{
+	margin-left: 102px;
+    margin-top: 52px;
+}
+
+/* height of triangle */
+.tri_height {
+	text-align: center;
+	margin-top: 60px;
+	
+}
+/* parallogram */
+.paral_height {
+	position: absolute;
+	top: 72px;
+	left: 54px;
+	
+}
+/*PYRAMID*/
+.hei_pyramid {
+	text-align: center;
+	margin-top: 54px;
+	
+}
+.height_of_pyramid_pointer {
+	left: 165px;
+    position: absolute;
+    top: 45px;
+    width: 56px;
+}
+/*part Begins*/
+.part1
+{
+	margin-top:-33px;
+	margin-left:-22px;
+	text-align:left;
+}
+/*part Ends*/
+
+/*percent Begins*/
+.percent1
+{
+	margin-top:-30px;
+	margin-left:-33px;
+	text-align:left;
+}
+/*percent Ends*/
+
+/*perfect_square Begins*/
+.perfect_square1
+{
+	margin-top:-24px;
+	margin-left:-18px;
+	text-align:left;
+}
+/*perfect_square Ends*/
+
+/*percent_decrease Begins*/
+.percent_decrease1
+{
+	margin-top:-20px;
+	margin-left:-18px;
+	text-align:left;
+}
+/*percent_decrease Ends*/
+
+/*percent_Increase Begins*/
+.percent_increase1
+{
+	margin-top:-20px;
+	margin-left:-18px;
+	text-align:left;
+}
+/*percent_Increase Ends*/
+
+
+/*perimeter Begins*/
+.perimeter1
+{
+	margin-top:-40px;
+	margin-left:-18px;
+	text-align:left;
+}
+/*perimeter Ends*/
+
+/* period starts  */	
+.period_sub{
+	margin-top: -5%;
+    text-align: center;
+}
+
+/*period ends  */	
+
+/*pattern Begins*/
+.pattern1
+{
+	margin-top:-38px;
+	margin-left:-3px;
+	text-align:left;
+}
+/*pattern Ends*/
+/*proportion Begins*/
+.proportion1
+{
+	margin-top:-13px;
+	margin-left:4px;
+	text-align:left;
+}
+/*proportion Ends*/
+
+/*power of number Begins*/
+.power_of_number1
+{
+	margin-top:-17px;
+	margin-left:-24px;
+	text-align:left;
+}
+/*power of number Ends*/
+/*possible outcomes */
+.possible_outcomes1
+{
+	margin-top:-35px;
+	margin-left:-20px;
+	text-align:left;
+}
+
+/*possible outcomes  ends */
+
+/*product start*/
+.product1
+{
+	margin-top:-23px;
+	margin-left:-1px;
+	text-align:left;
+}
+/*product end*/
+
+
+/* positive correlation */
+.pcorelation_1
+{
+	position: absolute;
+    top: -19px;;
+}
+
+.pcorelation_harrow
+{
+	height: 6px;
+    left: 125px;
+    position: absolute;
+    top: 139px;
+    width: 0px;
+	//display:none;
+}
+.pcorelation_varrow
+{
+	background-image:url('../images/positive_correlation_images/1.png');
+	background-repeat:no-repeat;
+	height: 0px;
+    left: 277px;
+    position: absolute;
+    top: 30px;
+    width: 7px;
+}
+.pcorelation_harrow1
+{
+	height: 6px;
+    left: 125px;
+    position: absolute;
+    top: 139px;
+    width: 151px;
+}
+.pcorelation_varrow1
+{
+	background-image:url('../images/positive_correlation_images/1.png');
+	background-repeat:no-repeat;
+	height: 191px;
+    left: 277px;
+    position: absolute;
+    top: 30px;
+    width: 7px;
+}
+/* positive correlation */
+
+/* pound starts */
+.pound1
+{
+	margin-top:-32px;
+	margin-left:-10px;
+	text-align:left;
+}
+
+/* pound ends */
+/* pint begins */
+
+.pint_img
+{
+	position: absolute;
+	left: 92px;
+	top: 65px;
+}
+.pint_img1,.pint_img2
+{
+	position: absolute;
+	top: 102pt;
+}
+.pint_img1
+{
+	left: 165px;
+}
+.pint_img2
+{
+	left: 261px;
+}
+.pint_txt{
+	display:none;
+	left: 165px;
+    position: absolute;
+    top: 135px;
+	}
+.pint_img22
+{
+	position: absolute;
+	height: 80px;
+	left: 56px;
+	top: -29px;
+	display: none;
+}
+.pint_fill
+{
+	display:none;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-left: thin solid #BDEDFF;
+    border-right: thin solid #BDEDFF;
+    height: 1px;
+    left: 108px;
+    position: absolute;
+    top: 44px;
+    width: 11px;
+}
+.pint_label
+{
+	/*font-size:18px;*/
+	margin-left:28px;
+	display:none;
+	position: absolute;
+	top: 185px;
+	left: 155px;
+}
+/* pint ends */
+/*pattern Begins*/
+#pattern_txt{
+	/**/
+	left: 85px;
+    position: absolute;
+    top: 80px;
+}
+#pattern_img1{
+	position: absolute;
+	width: 45px;
+	top:170px;
+	left:10px;
+}
+#pattern_img2{
+	position:absolute;width:45px;top:145px;left:70px;
+}
+#pattern_img3{
+	position:absolute;top:120px;width:45px;left:130px;
+}
+#pattern_img4{
+	position:absolute;top:95px;width:45px;left:190px;
+}
+#pattern_img5{
+	position:absolute;top:70px;width:45px;left:250px;
+}
+#pattern_art{
+	left: 60px;
+    position: absolute;
+    top: 75px;
+    width: 220px;
+}
+#pattern_circles{
+	width: 45px;
+	
+}
+.pattern_txt_1{
+	position: absolute;width: 45px;top:170px;left:10px;
+}
+.pattern_txt_2{
+	position:absolute;width:45px;top:145px;left:70px;
+}
+.pattern_txt_3{
+	position:absolute;top:120px;width:45px;left:130px;
+}
+.pattern_txt_4{
+	position:absolute;top:95px;width:45px;left:190px;
+}
+.pattern_txt_5{
+	position:absolute;top:70px;width:45px;left:250px;
+}
+/*pattern Ends*/
+/*-------------------pyramid Begins----------------*/
+#pyramid_art {
+	background-image: url('../images/pyramid_images/pyramid.png');
+	background-repeat: no-repeat;
+	position: absolute;
+	height: 113px;
+	left: 135px;
+	top: 85px;
+	width: 115px;
+}
+#pyramid_base {
+	background-image: url('../images/pyramid_images/pyramid_base.png');
+	background-repeat: no-repeat;
+	position: absolute;
+	height: 113px;
+	left: 135px;
+	top: 85px;
+	width: 115px;
+}
+#pyramid_face1 {
+	background-image: url('../images/pyramid_images/pyramid_face1.png');
+	background-repeat: no-repeat;
+	position: absolute;
+	height: 113px;
+	left: 135px;
+	top: 85px;
+	width: 115px;
+}
+#pyramid_face2 {
+	background-image: url('../images/pyramid_images/pyramid_face2.png');
+	background-repeat: no-repeat;
+	position: absolute;
+	height: 113px;
+	left: 135px;
+	top: 85px;
+	width: 115px;
+}
+#pyramid_face3 {
+	background-image: url('../images/pyramid_images/pyramid_face3.png');
+	background-repeat: no-repeat;
+	position: absolute;
+	height: 113px;
+	left: 135px;
+	top: 85px;
+	width: 115px;
+}
+#pyramid_face4 {
+	background-image: url('../images/pyramid_images/pyramid_face4.png');
+	background-repeat: no-repeat;
+	position: absolute;
+	height: 113px;
+	left: 135px;
+	top: 85px;
+	width: 115px;
+}
+.pyramin_arrow{
+	position:absolute;top:108px;left:213px;
+}
+.pryamid_txt{
+	margin-top:122px;
+	margin-left:264px;
+	position:absolute;
+	
+	}
+/*-------------------pyramid Ends----------------*/
+
+/* prism begins */
+.prism1
+{
+	margin-top:-19px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* prism ends */
+
+/* probablity starts */
+.probability1
+{
+	margin-top:-19px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* probability ends */
+
+/* perpendicular_lines begins */
+.perpendicular1
+{
+	margin-top:-30px;
+	margin-left:-18px;
+	text-align:left;
+}
+/* perpendicular_lines ends */
+/* parallel_lines begins */
+.parallel_lines1
+{
+	margin-top:-33px;
+	margin-left:-22px;
+	text-align:left;
+}
+/* parallel_lines ends */
+
+/* plus_sign begins */
+.plus_sign1
+{
+	margin-top:-30px;
+	margin-left:-40px;
+	text-align:left;
+}
+/* plus_sign ends*/
+
+/* polygon begins */
+.polygon1
+{
+	margin-top:-8px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* polygon ends */
+
+/* parallelogram begins */
+.parallelogram1
+{
+	margin-top:-25px;
+	margin-left:-22px;
+	text-align:left;
+}
+/* parallelogram ends */
+
+.pattern_txt_1{
+position: absolute;width: 45px;top:170px;left:10px;
+}
+/* quadrilateral starts */
+.quadrilateral_1
+{
+	margin-top:35px;
+	margin-left:104px;
+	text-align:left;
+}
+/* quadrilateral ends */
+/*quadrants starts*/
+.quadrants1
+{
+	margin-top:-13px;
+	margin-left:-10px;
+	text-align:left;
+}
+/* quadrants ends */
+/* radical sign starts */
+.radical_sign1
+{
+	margin-top:-40px;
+	margin-left:-10px;
+	text-align:left;
+}
+/*radical sign starts */
+
+
+/*radius starts*/
+.radius1
+{
+	margin-top:-25px;
+	margin-left:-22px;
+	text-align:left;
+}
+/* radius ends */
+
+/* range starts  */
+.range1
+{
+	margin-top:-20px;
+	margin-left:-1px;
+	text-align:left;
+}
+/* range ends  */
+
+/* rate starts  */
+.rate1
+{
+	margin-top:-46px;
+	margin-left:-24px;
+	text-align:left;
+}
+/* rate ends  */
+
+/*ratio Begins*/
+.ratio1
+{
+	margin-top:-19px;
+	margin-left:-13px;
+	text-align:left;
+}
+/*ratio Ends*/
+
+/* rational number starts  */
+.rationalnumber1
+{
+	margin-top:-39px;
+	margin-left:-1px;
+	text-align:left;
+}
+/* rational number ends  */
+
+/* ray Begins */
+.ray1
+{
+	margin-top:-30px;
+	margin-left:-20px;
+	text-align:left;
+}
+/* ray ends*/
+
+
+/*reciprocal Begins*/
+.reciprocal1
+{
+	margin-top:-43px;
+	margin-left:-10px;
+	text-align:left;
+}
+/*reciprocal Ends*/
+
+
+
+/* rectangular prism starts*/
+#rect_prism_img
+{
+	left: 50px;
+    position: absolute;
+    top: 10px;
+}
+ /* rectangular prism ends*/
+ 
+/* reflection */
+#reflection_diaplay
+{
+	position: absolute;
+	left: -11px;
+}
+#reflection_1{
+	left: -11px;
+    position: absolute;
+    top: 8px;
+	width:17px;
+	height:32px;
+}
+#reflection_black{
+	left: 30px;
+    position: absolute;
+    top: 8px;
+	display:none;
+}
+
+.reflection_align{
+	position: absolute;
+	left: 144px;
+	top:79px;
+}
+.reflection_align_2{
+	position: absolute;
+	top:23px;
+	left: 100px;
+}
+.reflection_img_id_2{
+	left: 27px;
+    position: absolute;
+    top: 39px;
+}
+.reflectionimg{
+	left: 27px;
+    position: absolute;
+    top: 78px;
+	width:42px;
+	height:32px;
+}
+.reflectionimg1{
+	left: 84px;
+    position: absolute;
+    top: 78px;
+	display:none;
+}
+
+/* regroup in addtion starts */
+.regroup_in_addition1
+{
+	margin-top:-20px;
+	margin-left:-30px;
+	text-align:left;
+}
+/* regroup in addtion ends */
+
+
+/* regroup in subtraction starts */
+.regroup_in_subtraction1
+{
+	margin-top:-40px;
+	margin-left:-30px;
+	text-align:left;
+}
+/* regroup in subtraction ends */
+
+
+/*regular_polygon starts */
+.regular_polygon1
+{
+	margin-top:-10px;
+	margin-left:-18px;
+	text-align:left;
+}
+/* regular_polygon ends */
+
+ 
+/* rectangular pyramid starts */
+.rectangular_pyramid1
+{
+	margin-top:-29px;
+	margin-left:10px;
+	text-align:left;
+}
+/* rectangular pyramid ends */
+
+/* rhombus strarts */
+.rhombus1
+{
+	margin-top:-21px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* rhombus ends */
+
+
+/* right angle starts */
+.right_angle1
+{
+	margin-top:-31px;
+	margin-left:-13px;
+	text-align:left;
+}
+
+/* right angle ends */
+
+
+/* right triangle starts */
+.right_triangle1
+{
+	margin-top:-31px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* right triangle ends */
+
+/* rise starts */
+.rise1
+{
+	margin-top:-31px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* rise ends */
+
+
+
+/* rotation starts  */	
+#rotation_sub{
+
+	margin-top: 12%;
+	text-align:center;
+}
+/*rotation ends  */
+
+/* rotation_about_the_origin starts  */	
+.rotation_about1
+{
+	margin-top:19px;
+	margin-left:95px;
+	text-align:left;
+}
+/*rotation_about_the_origin ends  */
+
+/* rotational symmetry******************/
+#rotate_symmentry_2{
+	left: 79px;
+    position: absolute;
+    top: 29px;
+}
+#rotate_symmentry_dot{
+	left: 165px;
+    position: absolute;
+    top: 122px; 
+}
+#rotate_symmentry_dot1{
+	left: 179px;
+    position: absolute;
+    top: 109px;
+}
+
+/* rounding starts */
+.rounding1
+{
+	margin-top:-31px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* rounding ends */
+
+/*row Begins*/
+.row1
+{
+	margin-top:-31px;
+	margin-left:-13px;
+	text-align:left;
+}
+/*row Ends*/
+
+/* run starts */
+.run1
+{
+	margin-top:-31px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* run ends */
+
+/* solid */
+.solid_1
+{
+    position: absolute; top: 24%; left: 24%;
+}
+.solid_2
+{
+    position: absolute; top: 24%; left: 17.5%;
+}
+.solid_3
+{
+    position: absolute; top: 13%; left: 20%;
+}
+
+
+
+/* sample space  starts*/
+.sample_space1
+{
+	margin-top:-46px;
+	margin-left:-13px;
+	text-align:left;
+}
+.sample_space2
+{
+	margin-top:-3px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* sample space ends*/
+
+/* SAS starts*/
+.sas1
+{
+	margin-top:12px;
+	margin-left:-1px;
+	text-align:left;
+}
+/* SAS ends*/
+
+
+/* scale starts */
+.scale1
+{
+	margin-top:-15px;
+	margin-left:-7px;
+	text-align:left;
+}
+.scale2
+{
+	margin-top:-4px;
+	margin-left:28px;
+	text-align:left;
+}
+/* scale ends */ 
+
+/* scale_drawing  starts */
+.scale_drawing1
+{
+	margin-top:-15px;
+	margin-left:-15px;
+	text-align:left;
+}
+/* scale_drawing ends */
+
+
+/* scale_factor  starts */
+.scale_factor1
+{
+	margin-top:-3px;
+	margin-left:-10px;
+	text-align:left;
+}
+/* scale_factor ends */
+
+/* scalene triangle starts  */	
+.scale_image{
+
+}
+/*scalene triangle ends  */
+
+/* scatter_plot starts */
+.scatter_plot1
+{
+	margin-top:-12px;
+	margin-left:-10px;
+	text-align:left;
+}/* scatter_plot ends */
+/* scientific_notation starts */
+.scientific_notation1
+{
+	margin-top:13px;
+	margin-left:-33px;
+	text-align:left;
+}
+/* scientific_notation ends */
+
+
+/* sequence starts */ 
+.sequence1
+{
+	margin-top:-26px;
+	margin-left:-16px;
+	text-align:left;
+}
+/* sequence ends  */
+
+/* set Begins */ 
+.set
+{
+   margin-left: 50px; margin-top: 80px;
+ }  
+/* set Ends */ 
+
+/* share_equally Begins */
+
+#share_equally img
+{
+	margin-left:10px; margin-top: 50px;
+}
+/*  share_equally Ends */
+
+/*side Begins*/
+#side_triangle{
+	left: 120px;
+    position: absolute;
+    top: 40px;
+}
+/*side Ends*/
+
+/* similar_figures */
+.similar_figures
+{
+	margin-left:5px; margin-top: 50px;
+}
+.similar_figures_img
+{
+	position:absolute;left:5px;top:93px;
+}
+.similar_figures_img2
+{
+	position: absolute; left: 150px;
+}
+.similar_figures_img3
+{
+	position: absolute; top:51px;left: 149px;display:none;width:178px;height:97px;
+}
+/* simplest form starts */
+.simplest_form1
+{
+	margin-top:-20px;
+	margin-left:-22px;
+	text-align:left;
+}
+/*simplest form ends */
+
+/* simplest form of a fraction starts */
+.simplest_form_fraction1
+{
+	margin-top:-20px;
+	margin-left:-22px;
+	text-align:left;
+}
+/*simplest form of a fraction ends */
+/* sixth starts  */	
+.sixth_1
+{
+	margin-top:63px;
+	margin-left:113px;
+	text-align:left;
+}
+/*sixth ends  */
+
+/* skip_counting */
+.skip_counting1
+{
+	margin-top:-24px;
+	margin-left:-25px;
+	text-align:left;
+}
+/* skip_counting */
+/* slide  starts*/
+#slide_diaplay
+{
+	position: absolute;
+	left: 252px;
+}
+.slide_align{
+margin-top: 24%;
+}
+.slide_line{
+	height: 16px;
+    left: 360px;
+    position: absolute;
+    top: 56%;
+    width: 0px;
+}
+#slide_imgslide{
+
+	position: absolute;
+	left: 252px;
+}
+/* slide  ends */
+
+
+/*slope starts */
+.slope1
+{
+	margin-top:-19px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* slope ends */
+
+/* solid starts */
+.solid1
+{
+	margin-top:-19px;
+	margin-left:-6px;
+	text-align:left;
+}
+/* solid ends */
+
+/* solid_figure starts */
+.solid_figure1
+{
+	margin-top:-19px;
+	margin-left:-6px;
+	text-align:left;
+}
+/* solid_figure ends */
+
+/*solution starts */
+.solution1
+{
+	margin-top:-19px;
+	margin-left:-40px;
+	text-align:left;
+}
+/* solution ends */
+
+/* solution of a system of equations starts */
+.solution_of_eq1
+{
+	margin-top:-19px;
+	margin-left:-6px;
+	text-align:left;
+}
+/* solution of a system of equations ends */
+
+
+/* solution set of an inequality */
+.solution_set_inequality1
+{
+	margin-top:-19px;
+	margin-left:-40px;
+	text-align:left;
+}
+/* solution set of an inequality */
+
+
+/* sphere begins */
+.sphere_1
+{
+	margin-top:60px;
+	margin-left:107px;
+	text-align:left;
+}
+
+/* sphere ends */
+
+/* square begins */
+.square1
+{
+	margin-top:-19px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* square ends */
+
+/* square_pyramid begins */
+.square_pyramid1
+{
+	margin-top:-19px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* square_pyramid ends */
+
+/* square_root begins */
+.square_root1
+{
+	margin-top:6px;
+	margin-left:-13px;
+	text-align:left;
+}
+/* square_root ends */ 
+
+/* square_unit  begins */
+.square_unit1
+{
+	margin-top:-19px;
+	margin-left:-13px;
+	text-align:left;
+}
+
+/* square_unit  ends */
+
+/* sss begins */
+.sss1
+{
+	margin-top:-31px;
+	margin-left:-13px;
+	text-align:left;
+}
+
+/* sss ends */
+
+
+/* standard_form starts*/
+.standard_form1
+{
+	margin-top:-19px;
+	//margin-left:-26px;
+	text-align:left;
+}
+/*  standard_form end*/
+
+
+/* stem starts*/	
+#stem_sub{
+    text-align: center;
+	margin-top: 13px;
+}
+
+/*---------stem end -----------*/
+
+
+/*stem-and-leaf plot*/
+.stem_and_leaf {
+    text-align: center;
+    margin-top: 5px;
+   
+}
+
+/* straight angle  starts*/
+.straight_angle1
+{
+	margin-top:-6px;
+	margin-left:-20px;
+	text-align:left;
+}
+/*straight angle ends*/
+
+
+/* subtract  starts*/
+.subtract1
+{
+	margin-top:-32px;
+	margin-left:-8px;
+	text-align:left;
+}
+/*subtract ends*/
+
+/* subtraction  starts*/
+.subtraction1
+{
+	margin-top:-8px;
+	margin-left:-8px;
+	text-align:left;
+}
+
+/*subtraction ends*/
+
+/* subtrahend begins */
+.subtrahend1
+{
+	margin-top:-1px;
+	margin-left:16px;
+	text-align:left;
+}
+/* subtrahend ends */
+
+/* sum begins */
+.sum1
+{
+	margin-top:5px;
+	margin-left:7px;
+	text-align:left;
+}
+/* sum ends */ 
+/* supplementary angles begins */
+.supplementary_ang1
+{
+	margin-top:45px;
+	margin-left:84px;
+	text-align:left;
+}
+/* supplementary angles ends */
+
+/*surface_area begins*/
+.surface_area1
+{
+	margin-top:-21px;
+	margin-left:0px;
+	text-align:left;
+}
+/*surface_area ends*/
+
+/* surface_area_of_a_rectangular_prism begins */
+.surface_area_of_a_rectangular_prism1
+{
+	margin-top:-9px;
+	margin-left:0px;
+	text-align:left;
+}
+
+/* surface_area_of_a_rectangular_prism ends */
+
+
+/* system equations begins */
+.system_eq1
+{
+	margin-top:-25px;
+	margin-left:40px;
+	text-align:left;
+}
+/* system equations ends*/
+
+
+/* table  starts*/
+.table1
+{
+	margin-top:-19px;
+	margin-left:5px;
+	text-align:left;
+}
+
+/*table ends*/
+
+/* table of values starts */
+.table_of_values1
+{
+	margin-top:-29px;
+	margin-left:-15px;
+	text-align:left;
+}
+/* table of values  ends*/
+
+
+
+/* take_away  starts*/
+.take_away1
+{
+	margin-top:-32px;
+	margin-left:-8px;
+	text-align:left;
+}
+/*take_away ends*/
+
+/* tally_mark  starts*/
+#tally_mark
+{
+	text-align:center;
+	margin-top:15%;
+}
+
+/*tally_mark ends*/
+
+
+/*tally table Begins*/
+#tally_table{
+	left: -6px;
+    position: absolute;
+    top: -20px;
+ }
+
+/*tally table Ends*/
+
+/* temperature */
+.temperature1
+{
+	margin-top:-17px;
+	margin-left:-4px;
+	text-align:left;
+}
+
+/*ten frame Begins*/
+#tens_empty_frame{
+	left: 70px;
+    position: absolute;
+    top: 65px;
+ }
+
+/*ten frame Ends*/
+
+/* tens rod */ 
+#tens_rod
+{
+	margin-top: -5%;
+    position: absolute;
+    text-align: center;
+}
+#tens_rod_hundreds,#tens_rod_tens, #tens_once_block
+{
+	position:absolute;
+	top:10px;
+	left:44px;
+}
+#tens_rod_tens
+{
+	
+	left:235px;
+}
+#tens_once_block
+{
+	
+	left:261px;
+}
+
+/*tenth*/
+.tenthh {
+
+	margin-top: 62px;
+	 margin-left: 22%;
+}
+/*term Begins*/
+.term1
+{
+	margin-top:-12px;
+	margin-left:-30px;
+	text-align:left;
+}
+/*term Ends*/
+
+/* term_of_a_sequence */ 
+.term_of_a_sequence1
+{
+	margin-top:-24px;
+	margin-left:-17px;
+	text-align:left;
+}
+
+
+/* thermometer */
+.thermometer1
+{
+	margin-top:-17px;
+	margin-left:-4px;
+	text-align:left;
+}
+
+/* third starts */
+.third_1
+{
+	margin-top:73px;
+	margin-left:147px;
+	text-align:left;
+}
+/* third ends */
+
+/*thousand period starts */
+.thousand_periods{
+	   margin-top: 0%;
+    text-align: center;
+}
+/*thousand period ends */
+
+/* three-dimensional figure starts*/	
+.three_dimensional_figure1
+{
+	margin-top:-19px;
+	margin-left:-6px;
+	text-align:left;
+}
+
+/* three-dimensional figure ends*/
+
+/* transformation */
+#img_slide{
+	display:none;
+	left: 125px;
+    position: absolute;
+    top: 60px;	
+}
+#img_slide1{
+	position: absolute;
+    top: -13px;
+}
+#img_slide_to{
+	height: 76px;
+    left: 136px;
+    position: absolute;
+    top: 66px;
+    width: 48px;
+}
+#img_slide1_rgt{
+	display:none;
+	left: 200px;
+    position: absolute;
+    top: 77px;	
+}
+#img_slide1_2{
+	display:none;
+	left: 125px;
+    position: absolute;
+    top: 59px;
+}
+#img_slide2_2{
+	display:none;
+	left: 120px;
+    position: absolute;
+    top: 92px;
+    width: 32px;
+}
+/* translation */
+
+/* transversal  starts*/
+.transversal1
+{
+	margin-top:-25px;
+	margin-left:10px;
+	text-align:left;
+}
+/*transversal ends*/
+
+/* trapezoid  starts*/
+.trapezoid1
+{
+	margin-top:-17px;
+	margin-left:7px;
+	text-align:left;
+}
+/*trapezoid ends*/
+
+/* triangle begins */
+.triangle1
+{
+	margin-top:-28px;
+	margin-left:-8px;
+	text-align:left;
+}
+/*triangle ends */
+
+
+/* turn starts */
+#tunr_piont{
+	left: 155px;
+    position: absolute;
+    top: 112px;
+}
+.turn_1{
+	left: 31%;
+    position: absolute;
+    top: 49%;
+}
+#turn_arr{
+	display:none;
+	height: 67px;
+    left: 51%;
+    position: absolute;
+    top: 25%;
+}
+#turn_img0
+{
+	width:165px;
+}
+#turn_img1
+{
+	width:170px;position:absolute;top:96px;
+}
+#turn_img2
+{
+	width:167px;position:absolute;top:68px;
+}
+#turn_img3
+{
+	 width:166px;position:absolute;top:40px;
+}
+#turn_img4
+{
+	width:165px;position:absolute;top:15px;
+}
+#turn_img5
+{
+	width:165px;position:absolute;top:-10px;
+}
+/* turn ends*/
+
+/* unit rate starts*/	
+.unit_rate1
+{
+	margin-top:-10px;
+	margin-left:10px;
+	text-align:left;
+}
+/* unit rate ends*/
+
+/* value begins */
+.value1
+{
+	margin-top:-20px;
+	margin-left:-19px;
+	text-align:left;
+}
+/*value ends*/
+
+
+/* variable starts */
+.variable1
+{
+	margin-top:-7px;
+	margin-left:-19px;
+	text-align:left;
+}
+/* variable ends */
+
+/* venn diagram starts*/	
+.venn_diagram1
+{
+	margin-top:-13px;
+	margin-left:-10px;
+	text-align:left;
+}
+/* venn diagram ends */
+
+
+/* vertex  starts*/
+.vertex1
+{
+	margin-top:-15px;
+	margin-left:-17px;
+	text-align:left;
+}
+/* vertex ends */
+
+
+/* vertex_of_a_polygon  starts*/
+.vertex_polygon1
+{
+	margin-top:-26px;
+	margin-left:-17px;
+	text-align:left;
+}
+/* vertex_of_a_polygon ends*/
+
+
+/* vertical angles  starts */
+.vertical_angle1
+{
+	margin-top:-33px;
+	margin-left:-7px;
+	text-align:left;
+}
+/* vertical angles ends */
+
+
+/* volume starts */
+
+.volume_img
+{
+	background: url(../images/volume_images/3.png);
+	height:63px;
+	width:60px;
+	margin: 0 auto;
+	margin-top:30px;
+}
+.volume_img2
+{
+	background: url("../images/volume_images/1.png") repeat scroll 0 0 transparent;
+    height: 63px;
+    margin: 30px auto 0;
+    width: 60px;
+}
+.volume_img1
+{
+	background: url(../images/volume_images/22.png);
+	height:63px;
+	width:60px;
+	margin: 0 auto;
+	margin-top:30px;
+}
+
+.volume_fill
+{
+
+    background: #7283B2;
+    height: 0px;
+    left: 1px;
+    /*opacity: 0.5;*/
+    position: relative;
+    top: 60px;
+    width: 58px;
+	
+	/* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+
+  /* IE 5-7 */
+ /* filter: alpha(opacity=50);*/
+
+  /* Netscape */
+  -moz-opacity: 0.5;
+
+  /* Safari 1.x */
+  -khtml-opacity: 0.5;
+
+  /* Good browsers */
+  opacity: 0.5;
+  
+}
+/* volume ends */
+
+/* week starts*/	
+.week1
+{
+	margin-top:-26px;
+	margin-left:-10px;
+	text-align:left;
+}
+/* week ends*/
+
+/* weight begins */
+.weight1
+{
+	margin-top:-26px;
+	margin-left:-23px;
+	text-align:left;
+}
+/* weight ends */
+
+
+/* whole  starts*/
+.whole1
+{
+	margin-top:-47px;
+	margin-left:-10px;
+	text-align:left;
+}
+.whole2{
+	left: 110px;
+    position: absolute;
+    top: 120px;
+}
+.whole3{
+	left: 234px;
+    position: absolute;
+    top: 120px;
+}
+/*--------- whole ends -----------*/
+
+/* x_axis starts*/
+.x_axis1
+{
+	margin-top:-42px;
+	margin-left:30px;
+	text-align:left;
+}
+/* x_axis ends */
+
+
+/* x_intercept starts  */	
+.x_intercept1
+{
+	margin-top:-20px;
+	margin-left:-18px;
+	text-align:left;
+}
+/* x_intercept ends  */	
+
+
+/* y_axis starts*/
+.y_axis1
+{
+	margin-top:-18px;
+	margin-left:33px;
+	text-align:left;
+}
+/* y_axis ends */
+
+/* y_intercept starts */ 
+.y_intercept1
+{
+	margin-top:-20px;
+	margin-left:-18px;
+	text-align:left;
+}
+
+/* y_intercept ends */
+
+
+
+/* quart starts */
+.quart_imgae
+{
+	 margin-left: 83px;
+    margin-top: 66px;
+}
+
+
+/*quart ends */
+
+/* quarter begins */
+
+.quarter_img
+{
+	left: 132px;
+    position: absolute;
+    top: 71px;
+    z-index: 1;
+}
+
+.quarter_img1
+{
+	margin-top:97px;
+	float: left;
+}
+.quarter_flowing
+{
+	left: 79px;
+    position: relative;
+    top: -104px;
+}
+.text_quart{
+	background-image: url("../images/quarter_images/text_quart.png");
+    height: 78px;
+    left: 115px;
+    position: absolute;
+    top: 68px;
+    width: 118px;
+    z-index: 1;
+}
+/* quarter ends */
+
+/*quotient*/
+.quotient_1
+{
+	margin-top:75px;
+	margin-left:104px;
+	text-align:left;
+}
+.quotient_2
+{
+	margin-top:42px;
+	margin-left:140px;
+	text-align:left;
+}
+/*multiple*/
+.multiplee
+{
+	font-size:12px;
+    text-align: center;
+    margin-top: 62px;
+}
+.hidd{
+	visibility:hidden;
+}
+
+
+/* elapsed time */
+
+.elapsed_time_class {
+	  margin-top: 5%;
+    text-align: center;
+}
+
+
+/*mixed number*/
+.mix_num
+{
+    margin-top: 12%;
+    text-align: center;
+}
+/*-------------------eighth Begins----------------*/
+.eighth_1
+{
+	margin-top:70px;
+	margin-left:90px;
+	text-align:left;
+}
+/*-------------------eighth Ends----------------*/
+.eight_txt{
+margin-top: -36px;text-align: center;
+}
+/*  experiment  */
+/*
+.experiment_image_div {
+	margin-left: -246px;
+}*/
+
+#experiment_coins
+{
+	position:absolute;
+	top:125px;
+	text-align:center;
+}
+.flip
+{
+	 border:1 px solid;
+	 width: 34px;	
+}
+
+#experiment_coins img
+{
+width: 34px;
+padding-right:1px;
+}
+/*  experiment end*/
+
+/*   base_10_img*/
+.base_10_img{
+width:360px;
+height:234px;
+}
+.base_10_pieces{
+	left: -8px;
+    position: absolute;
+    top: -30px;
+}
+/* ends */
+
+
+/*bar_graph starts*/
+#bar_graph, #bar_graph1 {
+	background-image: url('../images/bar_graph_images/bar_graph_e.png');
+	background-repeat: no-repeat;
+	height: 175px;
+	width: 215px;
+	margin-left: 65px;
+	margin-top:10px;
+}
+#bar_graph1 {
+	background-image: url('../images/bar_graph_images/bar_graph_s.png');
+}
+	
+.bar_ball {
+	background-color: #004567;
+	border: 0.5px solid;
+	float: left;
+	height: 100%;
+	/*margin-top: 160px;*/
+	width: 32px;
+}
+
+#bar_holder
+{
+	height:145px; 
+	width: 240px;
+	overflow:hidden;
+}
+.bar_ball
+{
+	background-color: #1688C6;margin-top: 160px;margin-left:36px;
+}
+/*--------------bar_graph Ends-----------*/
+
+/* broken scale */
+#broken_scale_zoom {
+	position:absolute;
+	top:50px;
+	width: 50px;
+}
+.broken_scale_img
+{
+position:absolute;left:152px;top:20px;
+
+}/* between starts */
+
+
+/* column */
+.column_image_class{
+	 left: 70px;
+    position: absolute;
+    top: 50px;
+}
+/* column ends */
+
+/* digit  begins*/
+.digit_values
+{
+	position:relative;
+	margin-left:166px;
+	float:left;
+	margin-top:85px;
+	
+}
+.digit_text
+{
+	position:absolute;
+	top:110px;
+	left:123px;
+	
+}
+
+.highl{
+	color:red;
+}
+/* digit ends */
+
+/* expanded form starts*/
+.expandedform_1
+{
+	margin-top:67px;
+	margin-left:105px;
+	text-align:left;
+}
+
+/* expanded form ends */
+
+
+/* expanded notations begins */
+
+.expanded_notation_notations
+{
+	float:left;
+	margin-top:35px;
+	
+	text-align:center;
+	margin-left:90px;
+	
+	
+}
+.expanded_notation_wholenum
+{
+	margin-top:80px;
+	margin-left:150px;
+	
+	
+}
+.expanded_nota_color{
+	color:#f00;
+}
+/* expanded notations ends */
+
+/*  fact family starts */
+.fact_family_class {
+	margin-left: -3px;
+    margin-top: -12px;
+}
+/* fact family ends */
+
+/* factor of a whole number starts */
+#factor_whole
+{
+	margin-left: -11px;
+    margin-top: -19px;
+}
+
+/* factor of a whole number ends */
+
+/* factor_pair 125 */
+.factor_pair_class {
+	margin-top: -30px;
+    text-align: center;
+}
+
+/* factorization_class 126 */
+.factorization_class{
+	margin-left: -26px;
+    margin-top: -26px;
+}
+
+/* decimal */
+.decimal_image{
+	left: 115px;
+	position: absolute;
+	top: 29px;
+}
+/* decimal point 082 */
+.decimal_point_arrow{
+	
+    left: -12px;
+    position: absolute;
+    top: 20px;
+}
+.decimal_poin_id {
+	left: 151px;
+	position: absolute;
+	top: 70px;
+        
+}
+.decimal_point_label
+{
+	position:relative;left:-20px;top:23px;
+}
+.decimal_point_image{
+	position: absolute;
+    top: -15px;
+}
+/* decimal */
+
+
+/* decimeter starts */
+.decimeter_img_class {
+	left: -1px;
+    position: absolute;
+    top: -18px;
+}
+
+/* decimeter ends */
+
+/* decimeter ends */
+/*---------face------------ */
+
+#face_img
+{
+ 	left: -2px;
+    position: absolute;
+    top: -15px;;
+}
+/*---end---*/
+/*favourable outcome*/
+.favoueable_outcome_img
+{
+ 	margin-left: 3px;
+    margin-top: -22px;	
+}
+.favoueable_outcome_img1
+{
+ 	margin-left: 3px;
+    margin-top: -32px;	
+}
+
+/***/
+/*********************/
+/* coordinate graph */
+.coordinate_graph_img {
+	margin-left: -11px;
+    margin-top: -3px;
+}
+
+
+/* consecutive vertices starts*/
+.cosecutive_verti_text
+{
+	width:auto;
+    left: 85px;
+    position: absolute;
+    top: 140px;
+}
+#vertices_img
+{
+	left: 75px;
+    position: absolute;
+    top: 50px;
+}
+/* consecutive vertices  ends*/
+
+
+/* composite number*/
+.composite_number_txt{
+	position:absolute;
+	top:77px;
+	left:35px;
+}
+/*--------------customary units of capacity Begins-----------*/
+.customary_units_capacity_1
+{
+	left:129px;
+	top:45px;
+	position:absolute;
+}
+.customary_units_capacity_2
+{
+	left:159px;
+	top:45px;
+	position:absolute;
+}
+.customary_units_capacity
+{
+	left:136px;
+	top:25px;
+	position:absolute;
+}
+/*--------------customary units of capacity Ends-----------*/
+/*--------------customary units of length Begins-----------*/
+.customary_units_length_1
+{
+	top:-12px;
+	position:absolute;
+}
+.customary_units_length_2
+{
+	top:-2px;
+	position:absolute;
+}
+.customary_units_length_3
+{
+	position: absolute;
+    top: -19px;
+}
+
+/*--------------customary units of length Ends-----------*/
+/* complementary angle */
+.complmntary_angle_img {
+	position:relative;
+	margin-left: 115px;
+	margin-top: 55px;
+}
+
+/*-----------degree_celsius Begins------------*/
+.degrees_celsius
+{
+top:20px;
+left:50px;
+position:absolute;	
+}
+/*-----------degree_celsius Ends------------*/
+
+/* divie starts */
+.divide_1
+{
+	margin-top:-20px;
+	margin-left:-2px;
+	text-align:left;
+}
+/* divide ends */
+
+
+
+/* dividend starts*/
+.dividend_img
+{
+top:70px;
+left:105px;
+position:absolute;	
+}
+
+/* dividend ends */
+
+
+
+
+
+/* maximum starts  */	
+.maximum_img
+{
+	margin-left:110px;
+	margin-top:65px;
+}
+
+/*maximum ends  */
+
+
+/* minimum starts  */	
+.minimum_img{
+	margin-left:110px;
+	margin-top:65px;
+}
+/*minimum ends  */	
+
+
+/* vertex of a solid figure starts  */	
+.vertex_of_solid_figure
+{
+margin-top:50px;
+margin-left:80px;	
+}
+/*vertex of a solid figure starts ends  */
+
+
+
+/* base of a solid figure starts  */	
+.base_of_solid_figure
+{
+	margin-top:70px;
+	margin-left:70px;
+}
+/* base of a solid figure ends  */
+
+
+
+/* yard starts  */	
+.yard_img
+{
+	margin-top:30px;
+	margin-left:30px;
+}/* yard ends  */
+
+
+/* upper extreme starts  */	
+.upper_extreme{
+	margin-left: 120px;
+    margin-top: 62px;
+}
+/*upper extreme ends  */	
+
+
+
+/* third quartile starts  */	
+.third_quartile_img{
+	margin-top: -17px;
+	margin-left: -14px;
+}
+/*third quartile ends  */	
+
+
+/* grid */
+.grid_1 {
+	margin-top:50px;
+	margin-left:120px;
+}
+.half{
+	margin-top:75px;
+	margin-left:115px;
+
+}
+/*-------------------height of a cylinder Begins----------------*/
+.hgt_cylinder{
+	margin-top:50px;
+	margin-left:120px;
+}
+/*-------------------height of a cylinder Ends----------------*/
+/* parallogram */
+.hgt_parallelogram{
+	margin-top:80px;
+	margin-left:105px;
+}
+/***************************isosceles triangle *******************/
+.isosceles_triangle{
+	margin-top:40px;
+	margin-left:120px;
+}
+
+/* height of triangle */
+.height_triangle{
+	left: 128px;
+    position: absolute;
+    top: 75px;
+}
+.height_triangle1{
+	left: 90px;
+    position: absolute;
+    top: 75px;
+	}
+.height_trapezoid{
+	margin-top:85px;
+	margin-left:120px;
+}
+.pyramid_img{
+	margin-top:50px;
+	margin-left:50px;
+}
+/***** pyramid ******/
+.pyramid_img{
+	margin-top:70px;
+	margin-left:100px;
+}
+
+/*Less than symbol*/
+.less_than_symbol {
+	margin-top:60px;
+	margin-left:100px;
+}
+/*Greater than symbol*/
+.greater_than_symbol{
+	margin-top:40px;
+	margin-left:100px;
+
+}
+
+/*angle begins */
+.angle_image{
+	position:absolute;
+}
+/*angle ends */
+
+/* quart starts */
+.quart_img
+{
+	position: absolute;
+	top:50px;
+	left:75px;
+}
+
+#quart_quart
+{
+	z-index: 2;
+}
+
+.quar_img2
+{
+	position: absolute;
+	top:-70px;
+	left:34px;
+	display: none;
+}
+
+#quart_pint1
+{
+	position: absolute;
+	top:30px;
+	left:100px;
+}
+
+.quart_fill {
+	display:none;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-left: thin solid #BDEDFF;
+    border-right: thin solid #BDEDFF;
+    height: 1px;
+    left: 36px;
+    position: absolute;
+    top: -47px;
+    width: 4px;
+    z-index: 0;
+}
+#quart_pint3
+{
+	position: absolute;
+	top:30px;
+	left:135px;
+}
+
+.quart_label
+{
+	font-size: 12px;
+	margin-left:28px;
+	display:none;
+}
+/*quart ends */
+/*******     ******/
+.rotation_img{
+	margin-left:120px;
+	margin-top:50px;
+}
+/*** height of Pryamid ****/
+.height_pyramid {
+	margin-top:60px;
+	margin-left:100px;
+}
+
+
+
+
+/* histrogram_img1*/
+.histrogram_img{
+	margin-left:80px;
+	margin-top:10px;
+}
+
+
+/*-------------hour hand Begins-----------*/
+.hour_hand_img{
+	margin-left:80px;
+	margin-top:30px;
+}
+/*-------------hour hand Ends-----------*/
+
+/* --------------------- hunrend chart ----------------*/
+.hundreds_chart_img{
+	margin-left:80px;
+	margin-top:10x;
+}
+
+/* hundreds flat starts  */	
+.hundreds_flat_img{
+	margin-left: 49px;
+    margin-top: 9px;
+}
+/* hundreds flat ends  */
+
+/* hypotenuse starts  */	
+.hypotenuse_img{
+margin-left: -23px;
+}
+/* hypotenuse end  */
+
+
+/*hundredth */
+.hundredth_img{
+	margin-left: 86px;
+    margin-top: -12px;
+}
+/*hundredth end*/
+/*input_output_table*/
+.input_output_table{
+	margin-left:130px;
+	margin-top:20px;
+}
+/*input_output_table end*/
+
+/*improper_fraction*/
+.improper_fraction{
+	margin-left:100px;
+	margin-top:60px;
+}
+/*improper_fraction end */
+
+/*meter_stick */
+.meter_stick{
+	margin-left:10px;
+	margin-top:60px;
+}
+
+/*meter_stick end*/
+
+/*204 milliliter*/
+.milliliter_img
+{
+	margin-left:100px;
+	margin-top:-10px;
+   
+}
+/* -------------------million periods */
+/*month*/
+.month_img{
+	margin-left:50px;
+	margin-top:20px;
+}
+/*month_img end*/
+
+/*mode*/
+.mode_img{
+	margin-left:120px;
+	margin-top:60px;
+}
+.mode_img1{
+	margin-left:120px;
+	margin-top:40px;
+}
+/*mode end*/
+
+
+/* multiplication starts */
+
+.multiplication_img{
+	margin-left:30px;
+	margin-top:35px;
+}
+
+/* multiplication ends */
+/*Multiplication_Property_One*/
+.Multiplication_Prop_One{
+	margin-left:100px;
+	margin-top:40px;
+}
+/*Multiplication_Property_One end*/
+
+
+/*217_Multiplication_Property_of_Zero*/
+.Multiplication_Prop_Zero
+{
+	margin-left:100px;
+	margin-top:50px;
+}
+/*217_Multiplication_Property_of_Zero end*/
+
+
+/*opposite angles of a parallelogram*/
+.opp_parall{
+	margin-left:80px;
+	margin-top:40px;	
+}
+/*opposite angles of a parallelogram end*/
+/*operations*/
+.operations_img{
+	margin-left:120px;
+	margin-top:20px;	
+}
+/*operations end*/
+
+.multiply_img{
+	margin-top:35px;	
+	margin-left:30px;
+}
+
+.like_terms_img{
+	margin-top:50px;	
+	margin-left:100px;
+}

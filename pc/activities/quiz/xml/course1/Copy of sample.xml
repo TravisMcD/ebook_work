@@ -1,0 +1,326 @@
+<assessmentItems>
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceB</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>
+Politics is defined in the
+<b><i>textbook</i></b>
+as
+</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">
+a system or organization for exercising authority over a body of people
+<img id="" src="xml/QuizTest2_11/images/AB_00079_1.png" alt="" height="" width="" />
+.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceB">who gets what, when, and how .</simpleChoice>
+                <simpleChoice identifier="ChoiceC">
+a particular view of how we ought to organize
+<img id="" src="xml/QuizTest2_11/images/AB_00079_2.png" alt="" height="" width="" />
+and live our collective lives.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceD">
+power that is recognized as
+<img id="" src="xml/QuizTest2_11/images/AB_00079_3.png" alt="" height="" width="" />
+legitimate .
+</simpleChoice>
+                <simpleChoice identifier="ChoiceE">
+directives that specify how resources
+<img id="" src="xml/QuizTest2_11/images/AB_00079_4.png" alt="" height="" width="" />
+will be distributed.
+</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective>vocabulary</learningObjective>
+        <location>What is Politics?</location>
+    </assessmentItem>
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceC</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>
+Government is
+<b>defined</b><b /><img id="" src="xml/QuizTest2_11/images/AB_00079_5.png" alt="" height="" width="" /><b />
+as
+</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">
+who gets what, when, and how
+<img id="" src="xml/QuizTest2_11/images/AB_00079_6.png" alt="" height="" width="" />
+.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceB">a group of people who run a country.</simpleChoice>
+                <simpleChoice identifier="ChoiceC">
+a system or organization for exercising authority over a body of people.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceD">
+a system of institutions that regulate society but have no influence over the economy.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceE">a republic rather than a direct democracy.</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective>vocabulary</learningObjective>
+        <location>Politics and Government</location>
+    </assessmentItem>
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceA</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>Authority is defined in the textbook as</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">power that is recognized as legitimate.</simpleChoice>
+                <simpleChoice identifier="ChoiceB">the use of force in a society.</simpleChoice>
+                <simpleChoice identifier="ChoiceC">
+the policy of leaders in authoritarian forms of government.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceD">
+the ability to get other people to do what you want.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceE">
+the form of government practiced in ancient Greece.
+</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective>vocabulary</learningObjective>
+        <location>Politics and Government</location>
+    </assessmentItem>
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>
+According to the text, a particular view of how we ought to organize our collective lives is
+</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">social order.</simpleChoice>
+                <simpleChoice identifier="ChoiceB">authority.</simpleChoice>
+                <simpleChoice identifier="ChoiceC">politics.</simpleChoice>
+                <simpleChoice identifier="ChoiceD">rules.</simpleChoice>
+                <simpleChoice identifier="ChoiceE">authoritarianism.</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective>conceptual</learningObjective>
+        <location>Authoritarian Systems</location>
+    </assessmentItem>
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceB</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>
+How do government rules and institutions fit into the definition of politics?
+</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">
+Rules provide the authority for politics, and institutions are sources of power.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceB">
+Rules can be thought of as the "how," and institutions can be thought of as the "where."
+</simpleChoice>
+                <simpleChoice identifier="ChoiceC">
+Rules and institutions cannot be separated in understanding how politics operate.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceD">
+Rules are more common in democracies, whereas institutions are more common in authoritarian government systems.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceE">
+Rules provide the means of power in a society, whereas institutions provide its system of determining those rules.
+</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective>conceptual</learningObjective>
+        <location>Rules and Institutions</location>
+    </assessmentItem>
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceD</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>
+What is the key difference between pure capitalist economies and pure socialist economies?
+</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">
+Capitalist economies are seldom democracies, whereas socialist economies frequently are democracies.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceB">
+The government plays a regulatory role only in socialist economies.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceC">
+People decide economic policies by voting in capitalist systems, but the people do not vote for economic policies in socialist systems.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceD">
+The market controls economic decisions in capitalist economies, whereas politicians and the government make economic decisions in socialist economies.
+</simpleChoice>
+                <simpleChoice identifier="ChoiceE">none of the above</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective>conceptual</learningObjective>
+        <location>Politics and Economics</location>
+    </assessmentItem>
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceA</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>What is social democracy?</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">
+A hybrid system combining a capitalist economy and a government that supports equality
+</simpleChoice>
+                <simpleChoice identifier="ChoiceB">
+The form of government found primarily in the former USSR
+</simpleChoice>
+                <simpleChoice identifier="ChoiceC">All forms of government that are not authoritarian</simpleChoice>
+                <simpleChoice identifier="ChoiceD">A governmental system found in ancient Greece</simpleChoice>
+                <simpleChoice identifier="ChoiceE">
+An economic system in which the market determines production, distribution, and price decisions and property is privately owned
+</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective>conceptual</learningObjective>
+        <location>Politics and Economics</location>
+    </assessmentItem>
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceB</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>An authoritarian government is</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">a system that lacks government and laws.</simpleChoice>
+                <simpleChoice identifier="ChoiceB">a system in which the state holds all power.</simpleChoice>
+                <simpleChoice identifier="ChoiceC">a government that vests power in the people.</simpleChoice>
+                <simpleChoice identifier="ChoiceD">based on the principle of popular sovereignty.</simpleChoice>
+                <simpleChoice identifier="ChoiceE">
+a system in which citizens have both rights and responsibilities.
+</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective>conceptual</learningObjective>
+        <location>Authoritarian Systems</location>
+    </assessmentItem>
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceA</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>
+What is the key difference between authoritarian and nonauthoritarian political systems?
+</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">
+How limited government is and how much power people have
+</simpleChoice>
+                <simpleChoice identifier="ChoiceB">
+Whether they are social democracies or capitalist countries
+</simpleChoice>
+                <simpleChoice identifier="ChoiceC">
+Whether they are parliamentary democracies or presidential democracies
+</simpleChoice>
+                <simpleChoice identifier="ChoiceD">The presence or absence of a monarchy</simpleChoice>
+                <simpleChoice identifier="ChoiceE">The level of government-regulated anarchy</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective>conceptual</learningObjective>
+        <location>Authoritarian Systems</location>
+    </assessmentItem>
+    <assessmentItem identifier="choice" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceB</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>
+Which of the following forms of democracy is supported by those who propose that there should be more direct democracy and citizen participation in democracy?
+</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceA">Pluralist democracy</simpleChoice>
+                <simpleChoice identifier="ChoiceB">Participatory democracy</simpleChoice>
+                <simpleChoice identifier="ChoiceC">Elite democracy</simpleChoice>
+                <simpleChoice identifier="ChoiceD">Pure democracy</simpleChoice>
+                <simpleChoice identifier="ChoiceE">Anarchy</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+        <learningObjective>conceptual</learningObjective>
+        <location>Non-authoritarian Systems</location>
+    </assessmentItem>
+    <assessmentItem identifier="TF01" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceT</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>Jonathan and Abby found shelter in a large ditch.</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceT">True</simpleChoice>
+                <simpleChoice identifier="ChoiceF">False</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+    </assessmentItem>
+    <assessmentItem identifier="TF01" title="" adaptive="false" timeDependent="false">
+        <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+            <correctResponse>
+                <value>ChoiceF</value>
+            </correctResponse>
+        </responseDeclaration>
+        <itemBody>
+            <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+                <prompt>
+                    <p>
+As quickly as it had begun, the earthquake stopped and the woods were silent.
+</p>
+                </prompt>
+                <simpleChoice identifier="ChoiceT">True</simpleChoice>
+                <simpleChoice identifier="ChoiceF">False</simpleChoice>
+            </choiceInteraction>
+        </itemBody>
+    </assessmentItem>
+</assessmentItems>

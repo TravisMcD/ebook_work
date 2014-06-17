@@ -1,0 +1,608 @@
+@charset "utf-8";
+/*
+*  LO Specific Styles
+*/
+
+/* FONT SOURCES*/
+/* 
+@font-face{
+	font-family:gothamBook;
+	src:url('../fonts/Gotham-Light.ttf');
+}
+@font-face{
+	font-family:gothamBook_ie;
+	src:url('../fonts/Gotham-Book.eot');
+}
+@font-face{
+	font-family:gothamMedium;
+	src:url('../fonts/Gotham-Medium.ttf');
+}
+@font-face{
+	font-family:gothamMedium_ie;
+	src:url('../fonts/Gotham-Medium.eot');
+}
+@font-face{
+	font-family:gothamBold;
+	src:url('../fonts/Gotham-Bold.ttf');
+}
+@font-face{
+	font-family:gothamBold_ie;
+	src:url('../fonts/Gotham-Bold.eot');
+}
+*/
+@font-face {
+    font-family: 'Interval_Regular';
+    src: url('../fonts/interval/regular/interval_regular.eot');
+    src: url('../fonts/interval/regular/interval_regular.eot?iefix') format('eot'), 
+         url('../fonts/interval/regular/interval_regular.woff') format('woff'), 
+         url('../fonts/interval/regular/interval_regular.ttf') format('truetype'), 
+         url('../fonts/interval/regular/interval_regular.svg#webfont') format('svg');
+}
+@font-face {
+    font-family: 'Interval_Light';
+    src: url('../fonts/interval/light/interval_light.eot');
+    src: url('../fonts/interval/light/interval_light.eot?iefix') format('eot'), 
+         url('../fonts/interval/light/interval_light.woff') format('woff'), 
+         url('../fonts/interval/light/interval_light.ttf') format('truetype'), 
+         url('../fonts/interval/light/interval_light.svg#webfont') format('svg');
+}
+@font-face {
+    font-family: 'Interval_Bold';
+    src: url('../fonts/interval/bold/interval_bold.eot');
+    src: url('../fonts/interval/bold/interval_bold.eot?iefix') format('eot'), 
+         url('../fonts/interval/bold/interval_bold.woff') format('woff'), 
+         url('../fonts/interval/bold/interval_bold.ttf') format('truetype'), 
+         url('../fonts/interval/bold/interval_bold.svg#webfont') format('svg');
+}
+@font-face {
+    font-family: 'Interval_Semibold';
+    src: url('../fonts/interval/semibold/interval_semibold.eot');
+    src: url('../fonts/interval/semibold/interval_semibold.eot?iefix') format('eot'), 
+         url('../fonts/interval/semibold/interval_semibold.woff') format('woff'), 
+         url('../fonts/interval/semibold/interval_semibold.ttf') format('truetype'), 
+         url('../fonts/interval/semibold/interval_semibold.svg#webfont') format('svg');
+}
+
+			#pane1{
+				height: 380px;
+			}
+			
+			.winXP .jScrollPaneTrack {
+				background: url(../images/windows_track.gif) repeat-y;
+			}
+			.winXP .jScrollPaneDrag {
+				background: url(../images/windows_drag_middle.gif) no-repeat 0 50%;
+			}
+			.winXP .jScrollPaneDragTop {
+				background: url(../images/windows_drag_top.gif) no-repeat;
+				height: 4px;
+			}
+			.winXP .jScrollPaneDragBottom {
+				background: url(../images/windows_drag_bottom.gif) no-repeat;
+				height: 4px;
+			}
+			.winXP a.jScrollArrowUp {
+				height: 17px;
+				background: url(../images/windows_arrow_up.gif) no-repeat 0 0;
+			}
+			.winXP a.jScrollArrowUp:hover {
+				background-position: 0 -20px;
+			}
+			.winXP a.jScrollArrowDown {
+				height: 17px;
+				background: url(../images/windows_arrow_down.gif) no-repeat 0 0;
+			}
+			.winXP a.jScrollArrowDown:hover {
+				background-position: 0 -20px;
+			}
+			.winXP a.jScrollActiveArrowButton, .winXP a.jScrollActiveArrowButton:hover {
+				background-position: 0 -40px;
+			}
+			
+			
+			.osX .jScrollPaneTrack {
+				background: url(../images/osx_track.gif) repeat-y;
+			}
+			.osX .jScrollPaneDrag {
+				background: url(../images/osx_drag_middle.gif) repeat-y;
+			}
+			.osX .jScrollPaneDragTop {
+				background: url(../images/osx_drag_top.gif) no-repeat;
+				height: 6px;
+			}
+			.osX .jScrollPaneDragBottom {
+				background: url(../images/osx_drag_bottom.gif) no-repeat;
+				height: 7px;
+			}
+			.osX a.jScrollArrowUp {
+				height: 24px;
+				background: url(../images/osx_arrow_up.png) no-repeat 0 -30px;
+			}
+			.osX a.jScrollArrowUp:hover {
+				background-position: 0 0;
+			}
+			.osX a.jScrollArrowDown {
+				height: 24px;
+				background: url(../images/osx_arrow_down.png) no-repeat 0 -30px;
+			}
+			.osX a.jScrollArrowDown:hover {
+				background-position: 0 0;
+			}
+			
+			.left .jScrollPaneTrack {
+				left: 0;
+				right: auto;
+			}
+			.left a.jScrollArrowUp {
+				left: 0;
+				right: auto;
+			}
+			.left a.jScrollArrowDown {
+				left: 0;
+				right: auto;
+			}
+		
+			
+			/* IE SPECIFIC HACKED STYLES */
+			* html .osX .jScrollPaneDragBottom {
+				bottom: -1px;
+			}
+
+body{
+	background-color: #fff;
+	overflow: hidden;
+	margin:0;
+	padding:0;
+}
+#glossaryArea{
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+    height: 240px;
+    margin: 25px auto;
+    position: relative;
+    width: 450px;
+}
+#alphabetArea{
+	position:relative;
+	width:450px;
+	height:26px;
+	background-image:url(../images/bgstrip_top.png);
+}
+#searchArea{
+	float: left;
+    height: 304px;
+    position: relative;
+    width: 148px;
+}
+#searchBox{
+	display:none;
+	position:absolute;
+	width:100%;
+	height:100%;
+	background-image:url(../images/bg_search_panel.png);
+	background-repeat:no-repeat;
+}
+#searchTxt{
+	position:absolute;
+	left:11px;
+	top:12px;
+	width:157px;
+	background:none;
+	border:none;
+	font-family:'Interval_Regular';
+	font-size:14px;
+}
+
+#searchBtn{
+	display:none;
+	position:absolute;
+	width:31px;
+	height:29px;
+	top:7px;
+	left:175px;
+	background-image:url(../images/btn_search.png);
+	background-repeat:no-repeat;
+	cursor:pointer;
+	
+	pointer-events:none;
+}
+#definitionArea{
+	float: right;
+    height: 221px;
+    left: 141px;
+    position: absolute;
+    top: 19px;
+    visibility: hidden;
+    width: 311px;
+}
+#btnOption{
+	position:absolute;
+	width:380px;
+	height:50px;
+}
+#defTable{
+	position: absolute;
+	width: 95%;
+	height: auto;
+	top: 10px;
+	margin: 0px 10px;
+	text-align: left;
+}
+#term{
+	
+	background:#B1D3E6;
+	font-family:'Interval_Regular';
+	font-size: 20px;
+	font-weight: normal;
+	color:#333333;
+}
+#definition{
+	
+	background:#DDEDF5;
+	font-family:'Interval_Regular';
+	font-size:14px;
+	font-weight:normal;
+	color:#333333;
+}
+#animation{
+	position:absolute;
+	width:360px;
+	height:234px;
+	border:2px #F93;
+	left:14px;
+	top:150px;
+	font-size:14px;
+}
+#welcome{
+	display:none;
+	 height: 214px;
+    left: 148px;
+    position: absolute;
+    top: 26px;
+    width: 302px;
+}
+#imgDiv{
+	background-image: url("../images/img_03.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 110px;
+    left: 11px;
+    position: absolute;
+    top: 5px;
+    width: 62px;
+}
+#title1{
+	font-family: 'Interval_Bold';
+    font-size: 19px;
+    left: 58px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 230px;
+}
+#title2{
+	color: #016EA1;
+    font-family: 'Interval_Bold';
+    font-size: 23px;
+    left: 61px;
+    position: absolute;
+    text-align: center;
+    top: 19px;
+    width: 230px;
+}
+#paraDiv{
+	color: #333333;
+    font-family: 'Interval_Regular';
+    font-size: 11px;
+    height: auto;
+    left: 63px;
+    line-height: 18px;
+    position: absolute;
+    text-align: left;
+    top: 59px;
+    width: 243px;
+}
+#welcomeTable{
+	display:none;
+	position:absolute;
+	width:310px;
+	left:20px;
+	top:244px;
+	font-family:'Interval_Regular';
+	font-size:13px;
+	background-color:#E5F0F4;
+	border-radius:5px;
+	border:none;
+	text-indent:7px;
+	color:#333333;
+}
+#replay{
+	display:none;
+	position:absolute;
+	width:92px;
+	height:35px;
+	top:351px;
+	left:275px;
+	background-image:url(../images/btn_replay.png);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+#seealso1{
+	background-image: url("../images/bgstrip_bot.png");
+    background-repeat: no-repeat;
+    background-size: 102% auto;
+    color: #FFFFFF;
+    font-family: "Lucida Sans Unicode","Lucida Grande",sans-serif;
+    font-size: 14px;
+    height: 39px;
+    left: 0;
+    position: absolute;
+    text-align: left;
+    top: 186px;
+    width: 302px;
+	
+}
+#seealso2{
+	 background-color: #E2ECF5;
+    display: block;
+    height: 34px;
+    left: 7px;
+    position: absolute;
+    top: 187px;
+    width: 305px;
+	
+}
+#seealso{
+	background-image: url("../images/bgstrip_bot.png");
+	color: #333333;
+    display: block;
+    font-family: 'Interval_Regular';
+    font-size: 11px;
+    height: 28px;
+    left: 11px;
+    line-height: 12px;
+    /*margin-left: 27px;*/
+    overflow: auto;
+    padding-left: 25px;
+    padding-top: 7px;
+    position: absolute;
+    text-align: left;
+    text-indent: -25px;
+    top: 184px;
+    width: 273px;
+}
+.yellow{
+	color:#016EA1;
+	text-decoration:none;
+	font-size:11px;
+}
+.yellow_small
+{
+	color:#016EA1;
+	text-decoration:none;
+	font-size:11px;
+}
+.yellow_small:hover{
+	color:#016EA1;
+	text-decoration:underline;
+}
+.yellow:hover{
+	color:#016EA1;
+	text-decoration:underline;
+}
+#languageCB{
+	position:absolute;
+	width:106px;
+	height:25px;
+	left:208px;
+	top:15px;
+	font-family:'Interval_Regular';
+	font-size:14px;
+	background-color:#7bb5cd;
+	color:#fff;
+}
+#languageListContainer{
+	position:absolute;
+	width:106px;
+	height:auto;
+	left:203px;
+	top:42px;
+	font-family:'Interval_Regular';
+	font-size:14px;
+	background-color:#0e84b9;
+	color:#fff;
+}
+#languageBox{
+	position:absolute;
+	width:100px;
+	height:19px;
+	left:205px;
+	top:19px;
+	padding:2px 0px 1px 6px;
+	text-indent:8px;
+	font-family:'Interval_Regular';
+	font-size:14px;
+	color:#fff;
+	background:url(../images/down_arrow_a.png) no-repeat right center;
+	background-color:#0e84b9;
+	background-position:right;
+	cursor:pointer;
+	border-radius:3px;
+}
+#languageBox:hover{
+	color:#BDDAE6;
+	background:url(../images/down_arrow_b.png) no-repeat right center;
+	background-color:#83B4CC;
+	background-position:right;
+	cursor:pointer;
+	border-radius:3px;
+}
+.languageOption{
+	font-family:'Interval_Regular';
+	font-size:14px;
+	background-color:#0e84b9;
+	color:#fff;
+	width:100px;
+	height:18px;
+	cursor:pointer;
+	padding:3px;
+	text-indent:5px;
+	border:2px solid #fff;
+}
+.languageOption:hover{
+	background-color:#83B4CC;
+}
+#audioBtn{
+	position:absolute;
+	width:42px;
+	height:42px;
+	right:10px;
+	top:10px;
+	background-image:url(../images/btn_play.png);
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+.alphaBtn{
+	position:absolute;
+	width:20px;
+	height:30px;
+	text-align:center;
+	font-family:'Interval_Regular';
+	font-size:12px;
+	color:#FFF;
+	cursor:pointer;
+}
+.alphaBtn:hover{
+	color:#00C;
+}
+.alphaBtnSelected{
+	
+	position:absolute;
+	width:20px;
+	height:30px;
+	text-align:center;
+	font-family:'Interval_Regular';
+	font-size:13px;
+	font-weight:bold;
+	cursor:pointer;
+	color:#DEDA19;	
+}
+.alphaBtn:active{
+	color:#ccff33;
+}
+.disabledAlphaBtn{
+	position:absolute;
+	width:20px;
+	height:30px;
+	text-align:center;
+	font-family:'Interval_Regular';
+	font-size:13px;
+	color:#FFF;
+	cursor:pointer;
+	pointer-events:none;
+	opacity:0.5;
+	filter:alpha(opacity=50);
+}
+
+
+
+.goTop{
+	position:absolute;
+	right:10px;
+	margin-right:5px;
+}
+#listBox{
+	position:absolute;
+	left:1px;
+	top:40px;
+	width:210px;
+	height:380px;
+}
+#termListContainer{
+	border: 1px solid #C1C1C1;
+    height: 211px;
+    left: 0;
+    position: absolute;
+    top: 0px;
+    width: 146px;
+}
+
+.listBoxItem{
+	display:block;
+	margin-left:25px;
+	text-indent:-15px;
+	color:#333333;
+	height:auto;
+	width:auto;
+	font-family:'Interval_Regular';
+	font-size:12px;
+	text-align:left;
+	cursor:pointer;	
+	word-wrap: break-word;
+	border:none;
+	text-decoration:none;
+}
+.listboxOverItem{
+	display:block;
+	margin-left:25px;
+	text-indent:-15px;
+	color:#016EA1;
+	height:auto;
+	width:auto;
+	font-family:'Interval_Regular';
+	font-size:12px;
+	text-align:left;
+	cursor:pointer;	
+	word-wrap: break-word;
+	border:none;
+	text-decoration:none;
+}
+.listboxSelectedItem{
+	display:block;
+	margin-left:25px;
+	text-indent:-15px;
+	font-family:'Interval_Regular';
+	text-decoration:underline;
+	font-size:12px;
+	color:#016EA1;
+		
+	cursor:pointer;
+
+}
+.disabledItem{
+	display:block;
+	margin-left:0px;
+	padding-left:10px;
+	background-color:#AEC1CB;
+	background-image:url(../images/arrow.png);
+	background-repeat:no-repeat;
+	background-position:right;
+	color:#333333;
+	cursor:default;
+	font-size:15px;
+	font-family:'Interval_Bold';
+	width:97%;
+}
+
+
+.spSelectedOption{
+	height:20px;
+	width:100%;
+	color:#66CCCC;
+	text-align:left;
+	font-family:'Interval_Regular';
+	font-size:12px;
+	text-decoration:underline;
+	border:1px solid #CCFFFF;
+	background:#FFFFFF;
+}
+
+
+#listBox option.selected{
+    background-color: Green; 
+} 
+
+
+//updated on 19 sep
+
+

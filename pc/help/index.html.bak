@@ -1,0 +1,330 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Icon</title>
+<link href="skin/blue.monday/jplayer.blue.monday.css" rel="stylesheet" type="text/css" />
+<link type="text/css" rel="stylesheet" href="css/style.css" />
+<script type="text/javascript" src="js/jquery/jquery.js"></script>
+<script type="text/javascript" src="js/jquery/jquery.jplayer.min.js"></script>
+<!--<script type="text/javascript" src="js/jquery/jquery.corner.js"></script>-->
+<script type="text/javascript" src="js/script.js"> </script>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+
+	$("#jquery_jplayer_1").jPlayer({
+		swfPath: "js",
+		supplied: "webmv, m4v",
+		size: {
+			width: "566px",
+			height: "360px",
+			cssClass: "jp-video-360p"
+		}
+		
+	}).bind($.jPlayer.event.loadedmetadata,function(){ 
+                 document.getElementById('preloader').style.display = 'none';
+        });
+
+});
+//]]>
+</script>
+
+<style>
+   #preloader{
+    position:absolute;
+left: 252px;
+top: 186px;
+}
+</style>
+
+</head>
+
+<body>
+	<div id="container" class="container">
+    	<div id="header" class="header"></div>
+        
+        <div id="content" class="content">
+          <table>
+             <tr>
+                <td>
+                	<div id="row1_img" class="imgsDiv">
+                	<img id="img_TOC" src="ob/TOC.png" class="imgs"/>
+                	</div>
+                </td>
+                <td>
+                	<div id="row1_txt" class="txt">
+                	<span class='subtopic'>Table of contents:</span> Allows you to navigate to a specific chapter/page within 
+                the book.
+                </div>
+                </td>
+             </tr>
+             
+             <tr>
+                <td>
+                	<div id="row2_img" class="imgsDiv">
+                	<img id="img_note" src="ob/note.png" class="imgs"/>
+                </div>
+                </td>
+                <td>
+                 <div id="row2_txt" class="txt">
+                	<span class='subtopic'>Notes:</span> Notes allow you to save ideas as you read a page. Click the button to activate
+this tool. Then point and click on the spot where you want to add a note. The note textbox 
+
+will displayed. Click inside the textbox and input your note. Click Save to save the note and 
+
+close the box. Notes are saved to the computer at which you're working.
+                </div>
+                </td>
+             </tr>
+             
+             <tr>
+                <td>
+                <div id="row3_img" class="imgsDiv">
+                	<img id="img_glossary" src="ob/glossary.png" class="imgs"/>
+                </div>
+                </td>
+                <td>
+                <div id="row3_txt" class="txt">
+                	<span class='subtopic'>Glossary:</span>Click the Glossary icon to load the glossary, then click a letter. You will see a list of terms starting with that letter from which to choose. Click the term to see a definition. Translations are provided in English and Spanish.
+                </div>
+                </td>
+             </tr>
+             
+             <tr>
+                <td>
+                <div id="row4_img" class="imgsDiv">
+                	<img id="img_bookmark" src="ob/bm.png" class="imgs"/>
+                </div>
+                </td>
+                <td>
+                 <div id="row4_txt" class="txt">
+                	<span class='subtopic'>Bookmark:</span> The Bookmark tool allows you to continue reading from the page you last read. Click 
+
+on the book mark icon and fill in the title and description. Then click the add button. To 
+
+open a page you have bookmarked, click on Bookmark, Bookmarked Pages and select the page you 
+
+wish to start from.
+                </div>
+                </td>
+             </tr>
+             
+             <tr>
+                <td>
+                <div id="row5_img" class="imgsDiv">
+                	<img id="img_highlight" src="ob/hl.png" class="imgs"/>
+                </div>
+                </td>
+                <td>
+                 <div id="row5_txt" class="txt">
+                	<span class='subtopic'>Highlight:</span> Just like the traditional highlighter you can highlight any part of a page. Click 
+
+the button to activate the tool. then select the material you woult like to highlight. Roll 
+
+over the highlighting and click close button to remove it.
+                </div>
+                </td>
+             </tr>
+             
+             <tr>
+                <td>
+                <div id="row6_img" class="imgsDiv">
+                	<img id="img_zoom" src="ob/plus.png" class="imgs"/>
+                </div>
+                </td>
+                <td>
+                 <div id="row6_txt" class="txt">
+                	<span class='subtopic'>Zoom In:</span> Zooms into the page 10%. You can zoom in up to 130%.
+                </div>
+                </td>
+             </tr>
+             
+             <tr>
+                <td>
+                <div id="row7_img" class="imgsDiv">
+                	<img id="img_zoom" src="ob/minus.png" class="imgs"/>
+                </div>
+                </td>
+                <td>
+                 <div id="row7_txt" class="txt">
+                	<span class='subtopic'>Zoom Out:</span> Zooms out of the page by 10%. You can reduce the view back to 100%.
+                </div>
+                </td>
+             </tr>
+             
+             <tr>
+                <td>
+                <div id="row8_img" class="imgsDiv">
+                	<img id="img_Search" src="ob/search.png" class="imgs"/>
+                </div>
+                </td>
+                <td>
+                <div id="row8_txt" class="txt">
+                	<span class='subtopic'>Search:</span> Search allows you to look for any word or pharse in the book. Click the Search icon, 
+
+type your search term into the text box and press enter. Click a red page number to navigate 
+
+to that page of the book. Search results are displayed in order of relevance.
+                </div>
+                </td>
+             </tr>
+             
+             <tr>
+                <td>
+                <div id="row9_img" class="imgsDiv">
+                	<img id="img_navigation" src="ob/btns.png" class="imgs"/>
+                </div>
+                </td>
+                <td>
+                 <div id="row9_txt" class="txt">
+                	<span class='subtopic'>Navigation:</span> Use the forward arrow to go to the next page, and the back arrow to go to the previous page in the book.
+                </div>
+                </td>
+             </tr>
+             
+          </table>
+        
+        	<!--<div id="row1" class="rows">
+            	<div id="row1_img" class="imgsDiv">
+                	<img id="img_TOC" src="ob/TOC.png" class="imgs"/>
+                </div>
+                <div id="row1_txt" class="txt">
+                	<span class='subtopic'>Table of contents:</span> Allows you to navigate to a specific chapter/page within 
+                the book.
+                </div>
+            </div>
+            <div id="row2" class="rows">
+            	<div id="row2_img" class="imgsDiv">
+                	<img id="img_note" src="ob/note.png" class="imgs"/>
+                </div>
+                <div id="row2_txt" class="txt">
+                	<span class='subtopic'>Notes:</span> Notes allow you to save ideas as you read a page. Click the button to activate
+this tool. Then point and click on the spot where you want to add a note. The note textbox 
+
+will displayed. Click inside the textbox and input your note. Click Save to save the note and 
+
+close the box. Notes are saved to the computer at which you're working.
+                </div>
+            </div>
+            <div id="row3" class="rows">
+            	<div id="row3_img" class="imgsDiv">
+                	<img id="img_glossary" src="ob/glossary.png" class="imgs"/>
+                </div>
+                <div id="row3_txt" class="txt">
+                	Text3
+                </div>
+            </div>
+            <div id="row4" class="rows">
+            	<div id="row4_img" class="imgsDiv">
+                	<img id="img_bookmark" src="ob/bm.png" class="imgs"/>
+                </div>
+                <div id="row4_txt" class="txt">
+                	<span class='subtopic'>Bookmark:</span> The Bookmark tool allows you to continue reading from the page you last read. Click 
+
+on the book mark icon and fill in the title and description. Then click the add button. To 
+
+open a page you have bookmarked, click on Bookmark, Bookmarked Pages and select the page you 
+
+wish to start from.
+                </div>
+            </div>
+            <div id="row5" class="rows">
+            	<div id="row5_img" class="imgsDiv">
+                	<img id="img_highlight" src="ob/hl.png" class="imgs"/>
+                </div>
+                <div id="row5_txt" class="txt">
+                	<span class='subtopic'>Highlight:</span> Just like the traditional highlighter you can highlight any part of a page. Click 
+
+the button to activate the tool. then select the material you woult like to highlight. Roll 
+
+over the highlighting and click close button to remove it.
+                </div>
+            </div>
+            <div id="row6" class="rows">
+            	<div id="row6_img" class="imgsDiv">
+                	<img id="img_zoom" src="ob/plus.png" class="imgs"/>
+                </div>
+                <div id="row6_txt" class="txt">
+                	<span class='subtopic'>Zoom In:</span> Zooms into the page 20%. You can zoom in up to 200%.
+                </div>
+            </div>
+            <div id="row7" class="rows">
+            	<div id="row7_img" class="imgsDiv">
+                	<img id="img_minus" src="ob/minus.png" class="imgs"/>
+                </div>
+                <div id="row7_txt" class="txt">
+                	<span class='subtopic'>Zoom Out:</span> Zooms out of the page by 20%. You can reduce the view back to 100%.
+                </div>
+            </div>
+            <div id="row8" class="rows">
+            	<div id="row8_img" class="imgsDiv">
+                	<img id="img_Search" src="ob/search.png" class="imgs"/>
+                </div>
+                <div id="row8_txt" class="txt">
+                	<span class='subtopic'>Search:</span> Search allows you to look for any word or pharse in the book. Click the Search icon, 
+
+type your search term into the text box and press enter. Click a red page number to navigate 
+
+to that page of the book. Search results are displayed in order of relevance.
+                </div>
+            </div>
+            <div id="row9" class="rows">
+            	<div id="row9_img" class="imgsDiv">
+                	<img id="img_help" src="ob/help.png" class="imgs"/>
+                </div>
+                <div id="row9_txt" class="txt">
+                	<span class='subtopic'>Help:</span> Displays the help menu.
+                </div>
+            </div>-->
+        </div>
+        <div id="jp_container_1" class="jp-video jp-video-360p">
+               <img id='preloader' src='ob/preloader.gif'/>
+        	<div class="close-bt" title="Close">Close</div>
+			<div class="jp-type-single">
+				<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+				<div class="jp-gui">
+					<div class="jp-video-play">
+						<a href="javascript:;" class="jp-video-play-icon" tabindex="1">play</a>
+					</div>
+					<div class="jp-interface">
+						<div class="jp-progress">
+							<div class="jp-seek-bar">
+								<div class="jp-play-bar"></div>
+							</div>
+						</div>
+						<div class="jp-current-time"></div>
+						<div class="jp-duration"></div>
+						<div class="jp-controls-holder">
+							<ul class="jp-controls">
+								<li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
+								<li><a href="javascript:;" class="jp-pause" tabindex="1">pause</a></li>
+								<li><a href="javascript:;" class="jp-stop" tabindex="1">stop</a></li>
+								<li><a href="javascript:;" class="jp-mute" tabindex="1" title="mute">mute</a></li>
+								<li><a href="javascript:;" class="jp-unmute" tabindex="1" title="unmute">unmute</a></li>
+								<li><a href="javascript:;" class="jp-volume-max" tabindex="1" title="max volume">max volume</a></li>
+							</ul>
+							<div class="jp-volume-bar">
+								<div class="jp-volume-bar-value"></div>
+							</div>
+							<ul class="jp-toggles">
+								<li><a href="javascript:;" class="jp-full-screen" tabindex="1" title="full screen">full screen</a></li>
+								<li><a href="javascript:;" class="jp-restore-screen" tabindex="1" title="restore screen">restore screen</a></li>
+								<li><a href="javascript:;" class="jp-repeat" tabindex="1" title="repeat">repeat</a></li>
+								<li><a href="javascript:;" class="jp-repeat-off" tabindex="1" title="repeat off">repeat off</a></li>
+							</ul>
+						</div>
+						<div class="jp-title">
+							
+						</div>
+					</div>
+				</div>
+				<div class="jp-no-solution">
+					<span>Update Required</span>
+					To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+				</div>
+			</div>
+		</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Glossary</title>
+        
+        <link rel="stylesheet" type="text/css" media="all" href="assets/style/demoStyles.css" />
+        <link rel="stylesheet" type="text/css" media="all" href="assets/style/jScrollPane.css" />    
+        <link rel="stylesheet" href="assets/style/gloss.css"/>
+        <link rel="stylesheet" href="assets/style/Style.css"/>
+        
+        <script src="assets/scripts/jquery.min.js" language='javascript' type='text/javascript'></script>
+        <script type="text/javascript" src="assets/js/jquery.jplayer.min.js"></script>    
+        <!--<script src="assets/scripts/jquery.min.js"></script>-->    
+        <script src="assets/scripts/jquery.mousewheel.js"></script>
+        <script src="assets/scripts/jScrollPane.js"></script>
+        <script src="assets/scripts/jQueryRotate3.js"></script>    
+        <script src="assets/scripts/animationSources.js"></script>
+        <script src="assets/scripts/glossary_master.js"></script>
+        <script src="assets/jsondata/gloss_resource.js"></script>   
+        
+        <style type='text/css'>
+            #audioBtn {background: url(/common/assets/images/newlook/common/btnReplay.png) center center no-repeat;}
+        </style>
+        
+        <script type='text/javascript' language='javascript'>
+            $(function() {
+                initDocument();
+            });
+        </script>
+    </head>
+
+    <body onload="">
+        <div id='jquery_jplayer' style='width: 0; height: 0; position: absolute; display: block;'></div>
+        
+        <div id="glossaryArea">
+        
+            <div id="alphabetArea">
+            </div>
+            
+            <div id="searchArea">
+                <div id="searchBox"><input type="text" id="searchTxt" /></div><div id="searchBtn"></div>
+                <div id="termListContainer" class="holder">
+                    <div id="pane2" class="scroll-pane">
+                    </div>
+                </div>
+            </div>
+                    
+            <div id="definitionArea">
+                <table id='defTable' cellpadding="8">
+                    <tr><td height="auto" bgcolor="#B1D3E6"><div id="term">absolute value of a number</div></td></tr>
+                    <tr><td height="auto" bgcolor="#DDEDF5"><div id="definition">the distance from zero to that number on a number line; the symbol for absolute value is ||</div></td></tr>
+                </table>
+                <div id="animation"></div>
+                <div id="replay"></div>
+                <div id="seealso2"></div>
+                <div id="seealso"></div>
+                <!--<div id="btnOption">
+                    <div id="languageListContainer" class="holder">
+                        <div id="englishOption" class="languageOption">English</div>
+                        <div id="spanishOption" class="languageOption">Spanish</div>
+                    </div>
+                     <div id="audioBtn"></div> //
+                </div>-->
+            </div>
+            
+            <div id="welcome">
+                <div id="imgDiv"></div>
+                <div id="title1">Welcome to the</div>
+                <div id="title2">Animated Glossary</div>
+                <div id="paraDiv">Use this animated	glossary of math terms while learning or playing to find the meaning of a term, see an example of a term, and find one or more related terms.</div>
+                <table id="welcomeTable">
+                    <tr><td bgcolor='#BFDBE7' style='color:#3F5E8A; padding:2px; border-radius:5px 5px 0px 0px; font-family:"Interval_Semibold";'>There are 3 ways to use this glossary:</td></tr>
+                    <tr><td>1. Find	a term using the “Search” box.	</td></tr>
+                    <tr><td>2. Click on a letter at the top.</td></tr>
+                    <tr><td>3. Scroll through the list of terms on the left.</td></tr>
+                    <tr><td></td></tr>
+                </table>
+                <div id="seealso1"></div>
+            </div>
+            
+            <div id="audioDiv"></div>
+            
+            <div id="jquery_jplayer"></div> 
+        </div>
+    </body>
+</html>
